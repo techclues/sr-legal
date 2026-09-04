@@ -93,11 +93,12 @@
 .editorial .btn-accent-gold:hover{background:#fff;color:#000}
 /* On navy-background containers, the primary button inverts to white fill (still hovers to gold) so it stays visible */
 .editorial .e-cta:not(.light) .btn-gold,
-.editorial .e-plan.featured .btn-gold,
 .editorial .e-hero-video .btn-gold{background:#fff;color:var(--e-navy)}
 .editorial .e-cta:not(.light) .btn-gold:hover,
-.editorial .e-plan.featured .btn-gold:hover,
 .editorial .e-hero-video .btn-gold:hover{background:var(--e-gold);color:#000}
+/* Featured (center) pricing plan: gold by default, inverts to white on hover */
+.editorial .e-plan.featured .btn-gold{background:var(--e-gold);color:#000}
+.editorial .e-plan.featured .btn-gold:hover{background:#fff;color:var(--e-navy)}
 
 .editorial .e-index-foot{text-align:center;margin-top:clamp(28px,4vw,40px)}
 
