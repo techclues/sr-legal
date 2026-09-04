@@ -1,0 +1,9 @@
+{
+  "name": "sr-legal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "S.R Legal Services website - static PHP/HTML site, no build step required.",
+  "scripts": {
+    "build": "echo \"No build step needed - static PHP/HTML site\""
+  }
+}
