@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srlegalservices.co.uk/sitemap.xml

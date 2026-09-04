@@ -1,0 +1,8 @@
+DirectoryIndex index.php index.html
+
+# Old filenames now rebuilt as PHP includes-based pages.
+# Kept as redirects so existing bookmarks/search results still resolve.
+Redirect 301 /index.html /
+Redirect 301 /pricing.html /pricing.php
+Redirect 301 /insights.html /insights.php
+Redirect 301 /gdpr-health-check.html /gdpr-health-check.php

@@ -1,0 +1,21 @@
+/* Header upgrade shared across all pages: centered nav links, a smaller
+   booking button, and a border/shadow that only appears once the page is
+   scrolled. Loaded after each page's own embedded styles so it wins the
+   cascade without needing to touch those large inline <style> blocks. */
+.nav{display:grid;grid-template-columns:auto 1fr auto;gap:22px}
+.nav-links{justify-content:center}
+.nav-actions{display:flex;align-items:center;gap:14px}
+.nav-cta{min-height:38px!important;padding:9px 15px!important;font-size:.76rem!important}
+.nav-cta .icon{width:15px;height:15px}
+.header{box-shadow:none;border-bottom-color:transparent;transition:border-color .35s ease,box-shadow .35s ease}
+.header::after{opacity:0;transition:opacity .35s ease}
+.header.scrolled{box-shadow:0 7px 30px rgba(7,31,70,.07);border-bottom-color:rgba(7,31,70,.08)}
+.header.scrolled::after{opacity:1}
+.dropdown-menu strong{font-family:Inter,Arial,sans-serif!important;font-weight:700;font-size:.88rem;line-height:1.25}
+.consultation-strip h2{font-family:'Fraunces',Georgia,serif!important;font-weight:400!important}
+.dropdown-menu{border-radius:6px!important;background:rgba(250,249,247,.98)!important}
+.dropdown-menu a{border-radius:4px!important}
+.consultation-label::before{display:none!important}
+.consultation-strip{background:linear-gradient(100deg,transparent 0%,rgba(255,255,255,.16) 45%,transparent 55%),linear-gradient(100deg,#0f6b5b 0%,#0b7565 52%,#075a75 100%)!important;background-size:300% 100%,100% 100%!important;background-position:200% 0,0 0!important;animation:strip-shimmer 5s ease-in-out infinite!important}
+@keyframes strip-shimmer{0%{background-position:200% 0,0 0}50%{background-position:-50% 0,0 0}100%{background-position:-50% 0,0 0}}
+@media(prefers-reduced-motion:reduce){.consultation-strip{animation:none!important}}
