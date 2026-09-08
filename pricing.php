@@ -13,9 +13,20 @@
   <img class="e-hero-video-bg" src="assets/images/page-hero.png" alt=""/>
   <div class="e-hero-video-scrim"></div>
   <div class="wrap">
+    <nav aria-label="Breadcrumb" class="e-breadcrumb rise"><a href="index.php">Home</a><span>&rsaquo;</span><strong>Pricing</strong></nav>
     <div class="k rise">Clear, upfront pricing <span class="dash"></span></div>
     <h1 class="rise d1">You'll know what it costs before we start<span class="dot">.</span></h1>
     <p class="rise d2">Fixed fees agreed in writing before any work begins, so you know the scope, the deliverables, the timescale and the cost. No hourly billing, no surprises on the invoice.</p>
+    <div class="rise d3" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px;">
+      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-accent-gold">Book Free 30-Minute Consultation</a>
+      <a href="contact.html" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg>Contact Us</a>
+    </div>
+    <div class="e-facts">
+      <div class="rise"><div class="l">Starting from</div><div class="v display">&pound;199 + VAT</div></div>
+      <div class="rise d1"><div class="l">Billing</div><div class="v display">Fixed fee</div></div>
+      <div class="rise d2"><div class="l">Ongoing support</div><div class="v display">From &pound;99/mo</div></div>
+      <div class="rise d3"><div class="l">Agreed</div><div class="v display">In writing, upfront</div></div>
+    </div>
   </div>
 </section>
 
@@ -211,9 +222,6 @@
           <div class="k">Let&rsquo;s talk <span class="dash"></span></div>
           <h2>Not sure which service<br/>or plan is right<span class="dot">?</span></h2>
           <p>Book a free consultation and we&rsquo;ll recommend the most appropriate level of support for your business.</p>
-        </div>
-        <div class="e-photo-panel-actions">
-          <a href="contact.html" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg>Contact Us</a>
         </div>
       </div>
     </div>

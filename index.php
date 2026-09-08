@@ -21,10 +21,6 @@
       <h1 class="rise d1 hero-typewriter"><span class="tw-line1"></span><br/><span class="tw-line2"></span></h1>
       <div class="e-hero-foot rise d2">
         <p>Fixed-fee privacy and AI governance support for UK businesses. Clear advice, proportionate to your size &mdash; not a retainer you'll never use.</p>
-        <div class="e-hero-actions">
-          <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-accent-gold">Book a free consultation</a>
-          <a href="services.html" class="btn btn-out-navy">Explore services</a>
-        </div>
       </div>
     </div>
   </div>
@@ -37,9 +33,6 @@
       <h1 class="rise d1">Build stronger privacy foundations with confidence.</h1>
       <div class="e-hero-foot rise d2 stack">
         <p>Fixed-fee reviews, essential documents and ongoing support shaped around the needs of your organisation.</p>
-        <div class="e-hero-actions">
-          <a href="pricing.php" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>View Pricing</a>
-        </div>
       </div>
     </div>
   </div>
@@ -52,9 +45,6 @@
       <h1 class="rise d1">Privacy &amp; AI governance support for growing businesses.</h1>
       <div class="e-hero-foot rise d2 stack">
         <p>Protect your business, build customer trust and meet your UK GDPR responsibilities through practical, jargon-free support.</p>
-        <div class="e-hero-actions">
-          <a href="services.html" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>Explore Services</a>
-        </div>
       </div>
     </div>
   </div>
@@ -65,6 +55,17 @@
 </section>
 
 <section aria-label="Free consultation" class="consultation-strip"><div class="container consultation-strip-inner"><div class="consultation-strip-copy"><span class="consultation-label">Free 30-minute consultation</span><h2>Talk through your privacy or compliance needs.</h2><p>No obligation. Clear guidance. Practical next steps for your business.</p></div></div></section>
+
+<div class="e-trust-bar">
+  <div class="wrap e-trust-bar-inner">
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>UK GDPR Expertise</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>ICO Guidance</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Privacy by Design</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>AI Governance</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Upfront Pricing</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Ongoing Privacy Support</span></div>
+  </div>
+</div>
 
 <section class="e-section">
   <div class="wrap">
@@ -326,9 +327,6 @@
           <div class="k">Let&rsquo;s talk <span class="dash"></span></div>
           <h2>Simple privacy advice<br/>for growing businesses<span class="dot">.</span></h2>
           <p>Book your free consultation today and discover how S.R Legal Services can help protect your business, your customers and your reputation.</p>
-        </div>
-        <div class="e-photo-panel-actions">
-          <a href="contact.html" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg>Contact Us</a>
         </div>
       </div>
     </div>

@@ -13,11 +13,13 @@
   <img class="e-hero-video-bg" src="assets/images/service-gdpr-hero.png" alt=""/>
   <div class="e-hero-video-scrim"></div>
   <div class="wrap">
+    <nav aria-label="Breadcrumb" class="e-breadcrumb rise"><a href="index.php">Home</a><span>&rsaquo;</span><a href="services.html">Services</a><span>&rsaquo;</span><strong>GDPR Health Check</strong></nav>
     <div class="k rise">Fixed-fee privacy review <span class="dash"></span></div>
     <h1 class="rise d1">GDPR Health Check<span class="dot">.</span></h1>
     <p class="rise d2">Understand where your business stands on data protection &mdash; and exactly what to do next. A practical review, priced up front, proportionate to a business your size.</p>
     <div class="rise d3" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px;">
-      <a href="pricing.php" class="btn btn-gold">View pricing</a>
+      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-accent-gold">Book Free 30-Minute Consultation</a>
+      <a href="pricing.php" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>View Pricing</a>
     </div>
     <div class="e-facts">
       <div class="rise"><div class="l">Starting from</div><div class="v display">&pound;199 + VAT</div></div>

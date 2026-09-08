@@ -2,6 +2,7 @@
 <div class="wrap e-footer-top">
   <div class="e-footer-brand">
     <a class="e-footer-logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/></a>
+    <div class="e-footer-tagline">Privacy. Governance. Growth.</div>
     <p>Simple privacy advice for growing businesses. Practical support across data protection, privacy governance and responsible AI.</p>
   </div>
   <div class="e-footer-col">
@@ -29,6 +30,33 @@
   </div>
 </div>
 
+<div class="wrap e-footer-company">
+  <div class="e-footer-company-head">
+    <div>
+      <span class="e-footer-company-kicker">Company information</span>
+      <strong>Copyright &copy; 2026 S.R Legal Services. All rights reserved.</strong>
+    </div>
+    <a class="e-footer-credit" href="https://www.venturetechco.com" rel="noopener" target="_blank">Developed by <b>Venture Tech Co.</b></a>
+  </div>
+  <div class="e-footer-company-details">
+    <div class="e-footer-detail e-footer-detail-wide">
+      <span class="e-footer-detail-label">Trading name</span>
+      <p>S.R Legal Services is the trading name of S.R Consulting Services Limited, a company registered in England and Wales.</p>
+    </div>
+    <div class="e-footer-detail">
+      <span class="e-footer-detail-label">Registered office</span>
+      <p>124 City Road, London, EC1V 2NX</p>
+    </div>
+    <div class="e-footer-detail">
+      <span class="e-footer-detail-label">Company number</span>
+      <p>11276408</p>
+    </div>
+    <div class="e-footer-detail">
+      <span class="e-footer-detail-label">VAT number</span>
+      <p>436104131</p>
+    </div>
+  </div>
+</div>
 
 <div class="wrap e-footer-bottom">
   <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>

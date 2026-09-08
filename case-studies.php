@@ -146,9 +146,6 @@
           <h2>Your business doesn't need to be <em>global</em> to need this<span class="dot">.</span></h2>
           <p>Book a free 30-minute consultation and we'll tell you what's actually proportionate for a business your size &mdash; including if the answer is very little.</p>
         </div>
-        <div class="e-photo-panel-actions">
-          <a href="contact.html" class="pill-btn pill-btn-white">Contact us</a>
-        </div>
       </div>
     </div>
   </div>
