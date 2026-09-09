@@ -26,7 +26,7 @@
   </div>
 
   <div class="e-hero-slide" data-hero-slide>
-    <img class="e-hero-slide-bg" src="assets/images/courthouse.jpg" alt=""/>
+    <img class="e-hero-slide-bg" src="assets/images/hero-legal-consultation.jpg" alt=""/>
     <div class="e-hero-video-scrim"></div>
     <div class="wrap">
       <div class="k rise">Clear advice. Practical protection. <span class="dash"></span></div>
@@ -38,7 +38,7 @@
   </div>
 
   <div class="e-hero-slide" data-hero-slide>
-    <img class="e-hero-slide-bg" src="assets/images/page-hero.png" alt=""/>
+    <img class="e-hero-slide-bg" src="assets/images/hero-growing-business.jpg" alt=""/>
     <div class="e-hero-video-scrim"></div>
     <div class="wrap">
       <div class="k rise">Privacy. Governance. Growth. <span class="dash"></span></div>
@@ -66,6 +66,25 @@
     <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Ongoing Privacy Support</span></div>
   </div>
 </div>
+
+<section class="e-section e-focus">
+  <div class="wrap e-focus-grid">
+    <div class="e-focus-copy rise">
+      <div class="k">Helping local businesses <span class="dash"></span></div>
+      <h2>Focus on growing your business. We&rsquo;ll help protect it.</h2>
+      <p>Running a business is demanding enough without worrying about data protection. Whether you collect customer details, employee information or use online booking systems, protecting personal data is an important part of running a trusted business.</p>
+      <p>At S.R Legal Services, we explain what you need to do in plain English, help you put the right measures in place and remain available whenever you need advice.</p>
+      <ul class="e-focus-list">
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg>Practical, jargon-free advice</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg>Fixed-fee services with transparent pricing</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg>Ongoing support as your business grows</li>
+      </ul>
+    </div>
+    <div class="e-focus-photo rise d1">
+      <img src="assets/images/focus-team-collaboration.jpg" alt="Advisor working through a client's privacy documentation on a laptop"/>
+    </div>
+  </div>
+</section>
 
 <section class="e-section">
   <div class="wrap">
@@ -156,12 +175,30 @@
         <p>S.R Legal Services was founded to make professional privacy advice accessible to local and growing businesses. Drawing on more than 15 years' experience supporting organisations across the UK and internationally, Shiraz helps businesses understand privacy obligations without unnecessary complexity.</p>
         <p>Whether you're a sole trader, a growing company or an established business, the aim is simple: provide practical advice that protects your business, builds customer trust and supports confident growth.</p>
         <div class="e-founder-tags">
-          <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>15+ years&rsquo; experience</span></div>
-          <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Practical, jargon-free advice</span></div>
-          <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Fixed-fee pricing</span></div>
-          <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Personal support tailored to your business</span></div>
+          <div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg><span>15+ years&rsquo; experience</span></div>
+          <div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg><span>Practical, jargon-free advice</span></div>
+          <div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg><span>Fixed-fee pricing</span></div>
+          <div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg><span>Personal support tailored to your business</span></div>
         </div>
       </div>
+    </div>
+    <div class="e-exp-stats">
+      <article class="e-exp-stat rise">
+        <div class="e-exp-stat-top"><span class="e-exp-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg></span><span class="e-exp-stat-index">01</span></div>
+        <strong data-counter data-target="15" data-suffix="+">0+</strong><span>Years&rsquo; Experience</span><small>Practical privacy, governance and compliance expertise.</small>
+      </article>
+      <article class="e-exp-stat rise d1">
+        <div class="e-exp-stat-top"><span class="e-exp-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg></span><span class="e-exp-stat-index">02</span></div>
+        <strong data-counter data-target="33">0</strong><span>Countries Supported</span><small>UK and international experience across complex environments.</small>
+      </article>
+      <article class="e-exp-stat rise d2">
+        <div class="e-exp-stat-top"><span class="e-exp-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/></svg></span><span class="e-exp-stat-index">03</span></div>
+        <strong data-counter data-target="10" data-suffix="+">0+</strong><span>Industry Sectors</span><small>Experience across regulated and fast-growing organisations.</small>
+      </article>
+      <article class="e-exp-stat e-exp-stat--text rise d3">
+        <div class="e-exp-stat-top"><span class="e-exp-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V8l8-5 8 5v12"/><path d="M8 20v-5h8v5M8 10h.01M12 10h.01M16 10h.01"/></svg></span><span class="e-exp-stat-index">04</span></div>
+        <strong>Global Enterprise</strong><span>&amp; SME Expertise</span><small>Supporting organisations of different sizes with proportionate advice.</small>
+      </article>
     </div>
   </div>
 </section>
@@ -287,7 +324,6 @@
     <p class="rise d1" style="font-size:14.5px;line-height:1.7;color:var(--e-ink-soft);max-width:56ch;margin-top:18px;">Stay informed with straightforward guidance on data protection, website privacy, employee information and practical business compliance.</p>
     <div class="e-insight-cards">
       <a class="e-insight-card slide-left" href="is-your-website-gdpr-compliant.html">
-        <img src="assets/images/insights/website-gdpr-compliant.jpg" alt=""/>
         <div class="e-insight-body">
           <div class="e-insight-meta">Website Privacy &middot; 5 min read</div>
           <h3>Is Your Website GDPR Compliant? 7 Things Every Business Should Check</h3>
@@ -296,7 +332,6 @@
         </div>
       </a>
       <a class="e-insight-card slide-up-scale d1" href="does-my-small-business-need-gdpr.html">
-        <img src="assets/images/insights/small-business-gdpr.jpg" alt=""/>
         <div class="e-insight-body">
           <div class="e-insight-meta">Data Protection &middot; 4 min read</div>
           <h3>Does My Small Business Really Need to Worry About GDPR?</h3>
@@ -305,7 +340,6 @@
         </div>
       </a>
       <a class="e-insight-card slide-right d2" href="cookies-and-consent-is-your-website-getting-it-right.html">
-        <img src="assets/images/insights/cookies-and-consent.jpg" alt=""/>
         <div class="e-insight-body">
           <div class="e-insight-meta">Website Privacy &middot; 5 min read</div>
           <h3>Cookies and Consent: Is Your Website Getting It Right?</h3>

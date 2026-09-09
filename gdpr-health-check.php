@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>GDPR Health Check | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#0B2038" name="theme-color"/><meta content="Understand where your business stands on data protection, and exactly what to do next. Fixed-fee GDPR review from £199 + VAT." name="description"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700;800&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="assets/css/site-base.css"/>
 <link rel="stylesheet" href="assets/css/editorial.css"/>
 <link rel="stylesheet" href="assets/css/cookie-consent.css"/>
@@ -9,23 +9,22 @@
 <?php $active = 'services'; $activeService = 'gdpr-health-check'; include __DIR__ . '/partials/nav.php'; ?>
 <main id="main">
 
-<section class="e-hero e-hero-video">
-  <img class="e-hero-video-bg" src="assets/images/service-gdpr-hero.png" alt=""/>
-  <div class="e-hero-video-scrim"></div>
-  <div class="wrap">
-    <nav aria-label="Breadcrumb" class="e-breadcrumb rise"><a href="index.php">Home</a><span>&rsaquo;</span><a href="services.html">Services</a><span>&rsaquo;</span><strong>GDPR Health Check</strong></nav>
-    <div class="k rise">Fixed-fee privacy review <span class="dash"></span></div>
-    <h1 class="rise d1">GDPR Health Check<span class="dot">.</span></h1>
-    <p class="rise d2">Understand where your business stands on data protection &mdash; and exactly what to do next. A practical review, priced up front, proportionate to a business your size.</p>
-    <div class="rise d3" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px;">
-      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-accent-gold">Book Free 30-Minute Consultation</a>
-      <a href="pricing.php" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>View Pricing</a>
+<section class="page-hero service-page-hero">
+  <img class="page-hero-bg" src="assets/images/service-gdpr-hero.jpg" alt=""/>
+  <div class="page-hero-overlay"></div>
+  <div class="wrap page-hero-content">
+    <nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>&rsaquo;</span><a href="services.html">Services</a><span>&rsaquo;</span><strong>GDPR Health Check</strong></nav>
+    <span class="kicker kicker-light">Fixed-fee privacy review</span>
+    <h1>GDPR Health Check<span class="dot">.</span></h1>
+    <p>Understand where your business stands on data protection &mdash; and exactly what to do next. A practical review, priced up front, proportionate to a business your size.</p>
+    <div class="service-hero-actions">
+      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="button button-gold"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a>
+      <a href="pricing.php" class="button button-light"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg><span>View Pricing</span></a>
     </div>
-    <div class="e-facts">
-      <div class="rise"><div class="l">Starting from</div><div class="v display">&pound;199 + VAT</div></div>
-      <div class="rise d1"><div class="l">Timescale</div><div class="v display">1&ndash;2 weeks</div></div>
-      <div class="rise d2"><div class="l">Ideal for</div><div class="v display">New &amp; growing businesses</div></div>
-      <div class="rise d3"><div class="l">You receive</div><div class="v display">Prioritised action plan</div></div>
+    <div class="service-hero-facts">
+      <div><span>Starting from</span><strong>&pound;199 + VAT</strong></div>
+      <div><span>Timescale</span><strong>1&ndash;2 weeks</strong></div>
+      <div><span>Primary outcome</span><strong>Prioritised action plan</strong></div>
     </div>
   </div>
 </section>

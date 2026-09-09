@@ -36,7 +36,6 @@
       <span class="e-footer-company-kicker">Company information</span>
       <strong>Copyright &copy; 2026 S.R Legal Services. All rights reserved.</strong>
     </div>
-    <a class="e-footer-credit" href="https://www.venturetechco.com" rel="noopener" target="_blank">Developed by <b>Venture Tech Co.</b></a>
   </div>
   <div class="e-footer-company-details">
     <div class="e-footer-detail e-footer-detail-wide">
@@ -60,6 +59,7 @@
 
 <div class="wrap e-footer-bottom">
   <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
+  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by Techclues Ltd</a>
   <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
 </div>
 </footer>

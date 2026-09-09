@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Pricing | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#0B2038" name="theme-color"/><meta content="Transparent fixed-fee privacy services and monthly support plans." name="description"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700;800&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="assets/css/site-base.css"/>
 <link rel="stylesheet" href="assets/css/editorial.css"/>
 <link rel="stylesheet" href="assets/css/cookie-consent.css"/>
@@ -9,23 +9,22 @@
 <?php $active = 'pricing'; include __DIR__ . '/partials/nav.php'; ?>
 <main id="main">
 
-<section class="e-hero e-hero-video">
-  <img class="e-hero-video-bg" src="assets/images/page-hero.png" alt=""/>
-  <div class="e-hero-video-scrim"></div>
-  <div class="wrap">
-    <nav aria-label="Breadcrumb" class="e-breadcrumb rise"><a href="index.php">Home</a><span>&rsaquo;</span><strong>Pricing</strong></nav>
-    <div class="k rise">Clear, upfront pricing <span class="dash"></span></div>
-    <h1 class="rise d1">You'll know what it costs before we start<span class="dot">.</span></h1>
-    <p class="rise d2">Fixed fees agreed in writing before any work begins, so you know the scope, the deliverables, the timescale and the cost. No hourly billing, no surprises on the invoice.</p>
-    <div class="rise d3" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px;">
-      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-accent-gold">Book Free 30-Minute Consultation</a>
-      <a href="contact.html" class="pill-btn pill-btn-white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg>Contact Us</a>
+<section class="page-hero service-page-hero">
+  <img class="page-hero-bg" src="assets/images/hero-pricing.jpg" alt=""/>
+  <div class="page-hero-overlay"></div>
+  <div class="wrap page-hero-content">
+    <nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>&rsaquo;</span><strong>Pricing</strong></nav>
+    <span class="kicker kicker-light">Clear, upfront pricing</span>
+    <h1>You'll know what it costs before we start<span class="dot">.</span></h1>
+    <p>Fixed fees agreed in writing before any work begins, so you know the scope, the deliverables, the timescale and the cost. No hourly billing, no surprises on the invoice.</p>
+    <div class="service-hero-actions">
+      <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="button button-gold"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a>
+      <a href="contact.html" class="button button-light"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg><span>Contact Us</span></a>
     </div>
-    <div class="e-facts">
-      <div class="rise"><div class="l">Starting from</div><div class="v display">&pound;199 + VAT</div></div>
-      <div class="rise d1"><div class="l">Billing</div><div class="v display">Fixed fee</div></div>
-      <div class="rise d2"><div class="l">Ongoing support</div><div class="v display">From &pound;99/mo</div></div>
-      <div class="rise d3"><div class="l">Agreed</div><div class="v display">In writing, upfront</div></div>
+    <div class="service-hero-facts">
+      <div><span>Starting from</span><strong>&pound;199 + VAT</strong></div>
+      <div><span>Billing</span><strong>Fixed fee</strong></div>
+      <div><span>Ongoing support</span><strong>From &pound;99/mo</strong></div>
     </div>
   </div>
 </section>
@@ -117,7 +116,8 @@
         <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="btn btn-out-navy">Discuss your needs</a>
       </article>
       <article class="e-plan featured slide-up-scale d1">
-        <span class="pname">Business &middot; Most popular</span>
+        <span class="pname">Business</span>
+        <span class="e-plan-badge">Most Popular</span>
         <div class="pprice display">&pound;199</div>
         <div class="punit">From &middot; + VAT / month</div>
         <p class="pdesc">Regular advice, quarterly reviews and document updates for growing businesses.</p>
