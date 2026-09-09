@@ -59,7 +59,7 @@
 
 <div class="wrap e-footer-bottom">
   <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
-  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by Techclues Ltd</a>
+  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by <span class="e-footer-credit-name">Techclues Ltd</span></a>
   <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
 </div>
 </footer>

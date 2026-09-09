@@ -534,7 +534,8 @@
 .editorial .e-footer-company-head{display:flex;align-items:flex-end;justify-content:space-between;gap:28px;margin-bottom:30px;flex-wrap:wrap}
 .editorial .e-footer-company-kicker{display:block;font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--e-gold);margin-bottom:6px}
 .editorial .e-footer-company-head strong{color:#fff;font-size:14px;font-weight:700;line-height:1.4}
-.editorial .e-footer-credit{color:#fff;font-size:12.5px;font-weight:400;white-space:nowrap;text-decoration:underline}
+.editorial .e-footer-credit{color:#fff;font-size:12.5px;font-weight:400;white-space:nowrap;text-decoration:none}
+.editorial .e-footer-credit-name{text-decoration:underline}
 .editorial .e-footer-credit:hover{color:var(--e-gold)}
 .editorial .e-footer-credit{justify-self:center}
 .editorial .e-footer-company-details{display:grid;grid-template-columns:1.5fr 1fr .72fr .72fr;gap:14px}
