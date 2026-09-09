@@ -40,6 +40,7 @@
 /* Hero with background video (homepage) */
 .editorial .e-hero.e-hero-video{min-height:clamp(500px,62vw,660px);position:relative;padding-top:0;padding-bottom:0}
 .editorial .e-hero.e-hero-video:not(.e-hero-slider){display:flex;align-items:center}
+.editorial .e-hero.e-hero-video:not(.e-hero-slider)>.wrap{margin-left:clamp(24px,5vw,90px);margin-right:auto}
 .editorial .e-hero-video-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
 .editorial .e-hero-video-scrim{position:absolute;inset:0;z-index:1;background:linear-gradient(100deg,rgba(7,20,42,.93) 0%,rgba(7,20,42,.8) 32%,rgba(7,20,42,.42) 60%,rgba(7,20,42,.1) 88%)}
 
