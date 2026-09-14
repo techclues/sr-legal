@@ -70,7 +70,7 @@
 <section class="e-section e-focus">
   <div class="wrap e-focus-grid">
     <div class="e-focus-copy rise">
-      <div class="k">Helping local businesses <span class="dash"></span></div>
+      <div class="k">Helping growing businesses <span class="dash"></span></div>
       <h2>Focus on growing your business. We&rsquo;ll help protect it.</h2>
       <p>Running a business is demanding enough without worrying about data protection. Whether you collect customer details, employee information or use online booking systems, protecting personal data is an important part of running a trusted business.</p>
       <p>At S.R Legal Services, we explain what you need to do in plain English, help you put the right measures in place and remain available whenever you need advice.</p>
@@ -89,7 +89,7 @@
 <section class="e-section">
   <div class="wrap">
     <div class="e-shead">
-      <div class="rise"><div class="k">Our six services</div><h2>Practical privacy solutions for local businesses.</h2></div>
+      <div class="rise"><div class="k">Our six services</div><h2>Practical privacy solutions for growing businesses.</h2></div>
       <p class="rise d2">Choose a focused fixed-fee service or ongoing support tailored to the way your business works.</p>
     </div>
   </div>
@@ -148,10 +148,10 @@
   <div class="wrap">
     <div class="k rise">Why S.R Legal Services <span class="dash"></span></div>
     <div class="e-grid4">
-      <div class="it slide-left"><div class="n display">01</div><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg></div><h4>Pragmatic and understandable</h4><p>Clear, practical guidance that makes sense for your business &mdash; no jargon, no 60-page reports you'll never open.</p></div>
-      <div class="it slide-right d1"><div class="n display">02</div><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v5h5M9 12h6M9 16h6"/></svg></div><h4>Legally compliant</h4><p>Solutions grounded in UK GDPR, PECR, the EU AI Act and current regulatory best practice.</p></div>
-      <div class="it slide-left d2"><div class="n display">03</div><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9.5" cy="6" r="4"/><path d="M17 11a4 4 0 0 1 4 4v5"/></svg></div><h4>Tailored to you</h4><p>Advice scaled to your size and sector, whether you're a two-person practice or a growing multi-site group.</p></div>
-      <div class="it slide-right d3"><div class="n display">04</div><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="5"/><path d="M8.5 12.5 7 21l5-3 5 3-1.5-8.5"/></svg></div><h4>Trusted and reliable</h4><p>Fifteen years advising organisations across retail, financial services, healthcare and technology.</p></div>
+      <div class="it slide-left"><div class="top"><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg></div><div class="n display">01</div></div><h4>Pragmatic and understandable</h4><p>Clear, practical guidance that makes sense for your business &mdash; no jargon, no 60-page reports you'll never open.</p></div>
+      <div class="it slide-right d1"><div class="top"><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v5h5M9 12h6M9 16h6"/></svg></div><div class="n display">02</div></div><h4>Legally compliant</h4><p>Solutions grounded in UK GDPR, PECR, the EU AI Act and current regulatory best practice.</p></div>
+      <div class="it slide-left d2"><div class="top"><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9.5" cy="6" r="4"/><path d="M17 11a4 4 0 0 1 4 4v5"/></svg></div><div class="n display">03</div></div><h4>Tailored to you</h4><p>Advice scaled to your size and sector, whether you're a two-person practice or a growing multi-site group.</p></div>
+      <div class="it slide-right d3"><div class="top"><div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="5"/><path d="M8.5 12.5 7 21l5-3 5 3-1.5-8.5"/></svg></div><div class="n display">04</div></div><h4>Trusted and reliable</h4><p>Fifteen years advising organisations across retail, financial services, healthcare and technology.</p></div>
     </div>
     <div class="e-stats">
       <div class="rise"><div class="v display" data-counter data-target="15" data-suffix="+">0+</div><div class="c">Years advising organisations</div></div>
@@ -211,50 +211,42 @@
     </div>
     <div class="e-industry-grid">
       <div class="e-industry-card slide-left">
-        <div class="e-industry-num">01</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5c-2 0-3 1.5-5 1.5C5 6.5 4 8 4 10c0 4 2 9 4 9 1.3 0 1.7-1 2.5-1s1.2 1 2.5 1c2 0 4-5 4-9 0-2-1-3.5-3-3.5-2 0-3-1.5-5-1.5Z"/><path d="M12 5V3"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5c-2 0-3 1.5-5 1.5C5 6.5 4 8 4 10c0 4 2 9 4 9 1.3 0 1.7-1 2.5-1s1.2 1 2.5 1c2 0 4-5 4-9 0-2-1-3.5-3-3.5-2 0-3-1.5-5-1.5Z"/><path d="M12 5V3"/></svg></div><div class="e-industry-num">01</div></div>
         <h4>Dentists</h4>
         <p>Helping dental practices protect patient information, review privacy documentation and support compliance with UK GDPR requirements.</p>
       </div>
       <div class="e-industry-card slide-right d1">
-        <div class="e-industry-num">02</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-6 10-6 10 6 10 6-3.6 6-10 6-10-6-10-6Z"/><circle cx="12" cy="12" r="3"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-6 10-6 10 6 10 6-3.6 6-10 6-10-6-10-6Z"/><circle cx="12" cy="12" r="3"/></svg></div><div class="e-industry-num">02</div></div>
         <h4>Opticians</h4>
         <p>Supporting opticians with patient privacy, staff data, website compliance and everyday data protection advice.</p>
       </div>
       <div class="e-industry-card slide-left d2">
-        <div class="e-industry-num">03</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3"/><path d="M5 20v-1a7 7 0 0 1 14 0v1"/><path d="M2 20v-1a4 4 0 0 1 3-3.87M22 20v-1a4 4 0 0 0-3-3.87"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3"/><path d="M5 20v-1a7 7 0 0 1 14 0v1"/><path d="M2 20v-1a4 4 0 0 1 3-3.87M22 20v-1a4 4 0 0 0-3-3.87"/></svg></div><div class="e-industry-num">03</div></div>
         <h4>Nurseries &amp; Childcare</h4>
         <p>Helping childcare providers protect children&rsquo;s information, manage parent data and implement appropriate privacy practices.</p>
       </div>
       <div class="e-industry-card slide-right d3">
-        <div class="e-industry-num">04</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg></div><div class="e-industry-num">04</div></div>
         <h4>Healthcare &amp; Clinics</h4>
         <p>Privacy support for physiotherapists, chiropractors, therapists and other healthcare professionals handling sensitive personal information.</p>
       </div>
       <div class="e-industry-card slide-left">
-        <div class="e-industry-num">05</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 10 9-6 9 6"/><path d="M5 10v9h14v-9M10 19v-6h4v6"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 10 9-6 9 6"/><path d="M5 10v9h14v-9M10 19v-6h4v6"/></svg></div><div class="e-industry-num">05</div></div>
         <h4>Estate &amp; Letting Agents</h4>
         <p>Helping property professionals manage customer information, tenant records and marketing communications responsibly.</p>
       </div>
       <div class="e-industry-card slide-right d1">
-        <div class="e-industry-num">06</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="3"/><path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/><path d="M2 21v-1a3 3 0 0 1 2-2.8M22 21v-1a3 3 0 0 0-2-2.8"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="3"/><path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/><path d="M2 21v-1a3 3 0 0 1 2-2.8M22 21v-1a3 3 0 0 0-2-2.8"/></svg></div><div class="e-industry-num">06</div></div>
         <h4>Recruitment Agencies</h4>
         <p>Supporting recruitment businesses with candidate privacy, employee information and recruitment-related data protection requirements.</p>
       </div>
       <div class="e-industry-card slide-left d2">
-        <div class="e-industry-num">07</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18M9 12v3h6v-3"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18M9 12v3h6v-3"/></svg></div><div class="e-industry-num">07</div></div>
         <h4>Accountants &amp; Professional Services</h4>
         <p>Helping accountants, consultants and professional advisers protect client information and strengthen their privacy practices.</p>
       </div>
       <div class="e-industry-card slide-right d3">
-        <div class="e-industry-num">08</div>
-        <div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8h12l1 12H5L6 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg></div>
+        <div class="e-industry-top"><div class="e-industry-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8h12l1 12H5L6 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg></div><div class="e-industry-num">08</div></div>
         <h4>Retail &amp; E-commerce</h4>
         <p>Supporting retailers with website privacy, customer data, online sales and marketing compliance.</p>
       </div>
