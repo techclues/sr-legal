@@ -2,8 +2,8 @@
 <html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Insights | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#0B2038" name="theme-color"/><meta content="Short, practical guidance on data protection and AI governance for growing UK businesses." name="description"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="assets/css/site-base.css"/>
-<link rel="stylesheet" href="assets/css/editorial.css"/>
+<link rel="stylesheet" href="assets/css/site-base.css?v=2"/>
+<link rel="stylesheet" href="assets/css/editorial.css?v=2"/><link rel="stylesheet" href="assets/css/header-upgrade.css?v=2"/>
 <link rel="stylesheet" href="assets/css/cookie-consent.css"/>
 </head><body class="editorial">
 <?php $active = 'insights'; include __DIR__ . '/partials/nav.php'; ?>

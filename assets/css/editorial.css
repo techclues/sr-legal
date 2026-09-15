@@ -5,7 +5,7 @@
  * Everything is scoped under .editorial so it can never collide with the
  * shared header/nav/footer styling used across the whole site.
  */
-.editorial{--e-navy:#0B2038;--e-navy-bg:#071f46;--e-gold:#C8A34D;--e-green:#0F6B5B;--e-royal:#0047AB;--e-paper:#FAF9F7;--e-alt:#F3F5F7;--e-ink:#2E3238;--e-ink-soft:#667085;--e-rule:#D8DDE3;font-family:'Inter',-apple-system,sans-serif;background:var(--e-paper);color:var(--e-ink)}
+.editorial{--e-navy:#0B2038;--e-navy-bg:#071f46;--e-gold:#C8A34D;--e-green:#0F6B5B;--e-royal:#0047AB;--e-paper:#FAF9F7;--e-alt:#F3F5F7;--e-ink:#2E3238;--e-ink-soft:#667085;--e-rule:#D8DDE3;font-family:'Inter',Arial,sans-serif;background:var(--e-paper);color:var(--e-ink)}
 .editorial .display{font-family:'Fraunces',Georgia,serif}
 .editorial .wrap{max-width:1180px;margin:0 auto;padding:0 clamp(20px,4vw,52px)}
 .editorial .k{font-size:10.5px;letter-spacing:.22em;font-weight:700;text-transform:uppercase;color:var(--e-green)}
