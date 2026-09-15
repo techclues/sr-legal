@@ -319,9 +319,7 @@ main p { text-wrap:pretty; }
 @media(max-width:980px){.insights-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.related-insights-grid{grid-template-columns:1fr}}
 @media(max-width:760px){.insight-hero{padding:38px 0 18px}.insight-title{font-size:2.45rem}.insight-wrap{width:min(100% - 32px,920px)}.insight-cover{margin-bottom:30px;border-radius:20px}.insight-cover img{aspect-ratio:16/10}.insight-service{align-items:flex-start;flex-direction:column;padding:24px 20px}.insight-service-actions{width:100%}.insight-service-actions .button{width:100%}.related-insight-card{grid-template-columns:110px 1fr}.related-insight-copy{padding:16px}.related-insight-copy h3{font-size:1.05rem}.insight-bottom-panel{align-items:flex-start;flex-direction:column;padding:24px 20px}.insight-bottom-panel .button{width:100%}.insights-grid{grid-template-columns:1fr}.insights-card img{height:210px}}
 </style>
-<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><a class="skip-link" href="#main">Skip to content</a>
-
-<header class="header"><div class="container nav"><a class="logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/><span class="logo-tagline">Privacy. Governance. Growth.</span></a><nav aria-label="Primary navigation" class="nav-links"><a class="" href="index.php">Home</a><a class="" href="about.html">About</a><div class="nav-dropdown"><a class="nav-trigger" href="services.html">Services <svg fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24"><path d="m6 9 6 6 6-6"></path></svg></a><div class="dropdown-menu"><a href="gdpr-health-check.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"></path><path d="m9 12 2 2 4-5"></path></svg><strong>GDPR Health Check</strong></a><a href="business-privacy-essentials.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"></path><path d="M14 3v5h5M9 12h6M9 16h6"></path></svg><strong>Business Privacy Essentials</strong></a><a href="website-privacy-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"></path></svg><strong>Website Compliance Review</strong></a><a href="employee-privacy-pack.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M16 20v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2M9.5 10a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM17 11a4 4 0 0 1 4 4v5M16 3.2a4 4 0 0 1 0 7.6"></path></svg><strong>Employee Privacy Pack</strong></a><a href="ai-for-business-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M18 9h3M3 15h3M18 15h3"></path><rect height="12" rx="3" width="12" x="6" y="6"></rect><path d="M9 14v-4h2.2a2 2 0 0 1 0 4H9Zm6-4v4"></path></svg><strong>AI Governance</strong></a><a href="ongoing-privacy-support.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 13v-2a8 8 0 0 1 16 0v2"></path><path d="M4 13h3v6H5a1 1 0 0 1-1-1zM20 13h-3v6h2a1 1 0 0 0 1-1zM17 19c0 1.1-.9 2-2 2h-3"></path></svg><strong>Ongoing Privacy Support</strong></a></div></div><a class="active" href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a class="" href="pricing.php">Pricing</a><a class="" href="contact.html">Contact</a></nav><div class="nav-actions"><a class="button button-gold nav-cta" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><button aria-expanded="false" aria-label="Open navigation" class="menu-button" data-menu-button=""><span></span><span></span><span></span></button></div></div><div class="mobile-menu" data-mobile-menu=""><a href="index.php">Home</a><a href="about.html">About</a><details class="mobile-services"><summary>Services</summary><div><a href="gdpr-health-check.php">GDPR Health Check</a><a href="business-privacy-essentials.html">Business Privacy Essentials</a><a href="website-privacy-review.html">Website Compliance Review</a><a href="employee-privacy-pack.html">Employee Privacy Pack</a><a href="ai-for-business-review.html">AI Governance</a><a href="ongoing-privacy-support.html">Ongoing Privacy Support</a></div></details><a href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a href="pricing.php">Pricing</a><a href="contact.html">Contact</a><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a></div></header><main id="main"><section class="insight-hero"><div class="insight-wrap">
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><?php $active = 'insights'; include __DIR__ . '/partials/nav.php'; ?><main id="main"><section class="insight-hero"><div class="insight-wrap">
 <nav aria-label="Breadcrumb" class="insight-breadcrumb"><a href="index.php">Home</a><span>›</span><a href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><span>›</span><span>AI Governance</span></nav>
 <span class="insight-kicker">Article 06 &nbsp;•&nbsp; AI Governance</span>
 <h1 class="insight-title">Does Your Business Need an AI Policy?</h1>
@@ -330,81 +328,14 @@ main p { text-wrap:pretty; }
 <div class="insight-wrap"><figure class="insight-cover"><img src="assets/images/insights/ai-policy.jpg" alt="Does Your Business Need an AI Policy?"/></figure>
 <article class="insight-article"><p class="lead">Employees do not always wait for an organisation to formally adopt AI. They may already be using ChatGPT, Microsoft Copilot and other AI tools to draft documents, summarise information, research topics and improve productivity. One of the first governance questions is therefore: how are people already using it?</p><h2>What does an AI policy do?</h2><p>An AI policy establishes boundaries for the use of AI within your organisation. Rather than prohibiting useful technology, it can help employees understand what is acceptable and when additional approval or caution is required.</p><h2>What should it cover?</h2><p>Depending on your organisation, an AI policy might address approved AI tools, permitted and prohibited uses, personal data, confidential information, human oversight, checking AI-generated outputs, intellectual property, security, record keeping and escalation of concerns.</p><h2>What information should not be entered?</h2><p>Employees need clear guidance around personal information, confidential business material, client information, commercially sensitive documents and other restricted data. The appropriate rules depend on the AI tools being used and the organisation's arrangements with the provider.</p><h2>What about inaccurate AI outputs?</h2><p>Generative AI can produce plausible but inaccurate information. Employees should understand that an AI-generated answer should not automatically be treated as fact. Human review is particularly important where outputs could affect customers, employees, legal obligations or significant business decisions.</p><h2>One policy is not the whole governance framework</h2><p>A policy is useful, but it does not replace understanding your AI systems and use cases. As adoption develops, organisations may also need inventories, risk assessments, vendor reviews, training, governance responsibilities and escalation procedures.</p><h2>Make the approach proportionate</h2><p>A growing business using AI for basic administrative assistance does not necessarily need the governance infrastructure of a global technology company. Start with the actual risks your organisation faces.</p>
 <div class="insight-summary"><h2>In summary</h2><p>Good AI governance should enable responsible use rather than create unnecessary bureaucracy.</p></div>
-<div class="insight-service"><div><small>Related service</small><h2>AI Governance</h2><p>Practical support from S.R Legal Services tailored to your organisation.</p></div><div class="insight-service-actions"><a class="button button-gold button-sm" href="ai-for-business-review.html">Explore AI Governance</a><a class="button button-outline button-sm" href="https://calendly.com/srlegalservices-info/30min" target="_blank" rel="noopener">Book a Free 30-Minute Consultation</a></div></div>
+<div class="insight-service"><div><small>Related service</small><h2>AI Governance</h2><p>Practical support from S.R Legal Services tailored to your organisation.</p></div><div class="insight-service-actions"><a class="button button-gold button-sm" href="ai-for-business-review.php">Explore AI Governance</a><a class="button button-outline button-sm" href="https://calendly.com/srlegalservices-info/30min" target="_blank" rel="noopener">Book a Free 30-Minute Consultation</a></div></div>
 </article></div>
-<section class="related-insights"><div class="container"><div class="section-head"><div><span class="kicker">Related insights</span><h2>Continue reading.</h2></div><p>More practical guidance on privacy, data protection and responsible AI.</p></div><div class="related-insights-grid"><a class="related-insight-card" href="is-your-website-gdpr-compliant.html"><img src="assets/images/insights/website-gdpr-compliant.jpg" alt=""/><div class="related-insight-copy"><small>Website Privacy</small><h3>Is Your Website GDPR Compliant? 7 Things Every Business Should Check</h3><span>Read article →</span></div></a><a class="related-insight-card" href="does-my-small-business-need-gdpr.html"><img src="assets/images/insights/small-business-gdpr.jpg" alt=""/><div class="related-insight-copy"><small>Data Protection</small><h3>Does My Small Business Really Need to Worry About GDPR?</h3><span>Read article →</span></div></a></div></div></section>
+<section class="related-insights"><div class="container"><div class="section-head"><div><span class="kicker">Related insights</span><h2>Continue reading.</h2></div><p>More practical guidance on privacy, data protection and responsible AI.</p></div><div class="related-insights-grid"><a class="related-insight-card" href="is-your-website-gdpr-compliant.php"><img src="assets/images/insights/website-gdpr-compliant.jpg" alt=""/><div class="related-insight-copy"><small>Website Privacy</small><h3>Is Your Website GDPR Compliant? 7 Things Every Business Should Check</h3><span>Read article →</span></div></a><a class="related-insight-card" href="does-my-small-business-need-gdpr.php"><img src="assets/images/insights/small-business-gdpr.jpg" alt=""/><div class="related-insight-copy"><small>Data Protection</small><h3>Does My Small Business Really Need to Worry About GDPR?</h3><span>Read article →</span></div></a></div></div></section>
 <section class="insight-bottom-cta"><div class="container"><div class="insight-bottom-panel"><div><h2>Speak directly with Shiraz</h2><p>Book a free 30-minute consultation to discuss your privacy challenges and practical next steps.</p></div><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" target="_blank" rel="noopener">Book Your Consultation</a></div></div></section>
-</main><div class="editorial"><footer class="e-footer">
-<div class="wrap e-footer-top">
-  <div class="e-footer-brand">
-    <a class="e-footer-logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/></a>
-    <div class="e-footer-tagline">Privacy. Governance. Growth.</div>
-    <p>Simple privacy advice for growing businesses. Practical support across data protection, privacy governance and responsible AI.</p>
-  </div>
-  <div class="e-footer-col">
-    <h4>Services</h4>
-    <a href="gdpr-health-check.php">GDPR Health Check</a>
-    <a href="business-privacy-essentials.html">Business Privacy Essentials</a>
-    <a href="website-privacy-review.html">Website Compliance Review</a>
-    <a href="employee-privacy-pack.html">Employee Privacy Pack</a>
-    <a href="ai-for-business-review.html">AI Governance</a>
-    <a href="ongoing-privacy-support.html">Ongoing Privacy Support</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Company</h4>
-    <a href="index.php">Home</a>
-    <a href="about.html">About</a>
-    <a href="insights.php">Insights</a>
-    <a href="case-studies.php">Case studies</a>
-    <a href="pricing.php">Pricing</a>
-    <a href="contact.html">Contact</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Speak with us</h4>
-    <a href="tel:+447778778153">07778 778153</a>
-    <a href="mailto:info@srlegalservices.co.uk">info@srlegalservices.co.uk</a>
-  </div>
-</div>
-
-<div class="wrap e-footer-company">
-  <div class="e-footer-company-head">
-    <div>
-      <span class="e-footer-company-kicker">Company information</span>
-      <strong>Copyright &copy; 2026 S.R Legal Services. All rights reserved.</strong>
-    </div>
-  </div>
-  <div class="e-footer-company-details">
-    <div class="e-footer-detail e-footer-detail-wide">
-      <span class="e-footer-detail-label">Trading name</span>
-      <p>S.R Legal Services is the trading name of S.R Consulting Services Limited, a company registered in England and Wales.</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Registered office</span>
-      <p>124 City Road, London, EC1V 2NX</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Company number</span>
-      <p>11276408</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">VAT number</span>
-      <p>436104131</p>
-    </div>
-  </div>
-</div>
-
-<div class="wrap e-footer-bottom">
-  <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
-  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by <span class="e-footer-credit-name">Techclues Ltd</span></a>
-  <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
-</div>
-</footer></div>
+</main><div class="editorial"><?php include __DIR__ . '/partials/footer.php'; ?></div>
 <script>
 document.documentElement.classList.add('js');
 document.addEventListener('DOMContentLoaded',()=>{
- const menuBtn=document.querySelector('[data-menu-button]');
- const mobileMenu=document.querySelector('[data-mobile-menu]');
- if(menuBtn&&mobileMenu){menuBtn.addEventListener('click',()=>{const open=mobileMenu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',open?'true':'false')})}
  const headerEl=document.querySelector('.header'); if(headerEl){const setScrolled=()=>headerEl.classList.toggle('scrolled',window.scrollY>10); setScrolled(); window.addEventListener('scroll',setScrolled,{passive:true});}
  const targets=document.querySelectorAll('main section,.service-card,.benefit-card,.info-card,.plan,.glance,.legal-content');
  targets.forEach(el=>el.classList.add('reveal'));
@@ -450,4 +381,4 @@ document.addEventListener('DOMContentLoaded',()=>{
   counters.forEach(el => observer.observe(el));
 })();
 </script>
-<script src="assets/js/cookie-consent.js" defer></script></body></html>
+</body></html>

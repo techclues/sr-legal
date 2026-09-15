@@ -10,7 +10,7 @@
 <main id="main">
 
 <section class="e-hero e-hero-video">
-  <img class="e-hero-video-bg" src="assets/images/focus-team-collaboration.jpg" alt=""/>
+  <img class="e-hero-video-bg" src="assets/images/hero-insights.jpg" alt=""/>
   <div class="e-hero-video-scrim"></div>
   <div class="wrap">
     <div class="k rise">Insights <span class="dash"></span></div>
@@ -22,38 +22,38 @@
 <section class="e-section" style="padding-top:0;">
   <div class="wrap">
     <div class="e-index">
-      <a class="e-row feature rise" href="does-my-small-business-need-gdpr.html">
-        <div class="n display">01</div>
+      <a class="e-row feature rise" href="does-my-small-business-need-gdpr.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Does My Small Business Really Need to Worry About GDPR?</h3><p>GDPR is sometimes associated with large corporations, complex compliance programmes and lengthy legal documents. But data protection law applies to many ordinary business activities carried out by small and growing organisations.</p></div>
         <div class="pr"><div class="u">4 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d1" href="does-your-business-need-an-ai-policy.html">
-        <div class="n display">02</div>
+      <a class="e-row rise d1" href="does-your-business-need-an-ai-policy.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Does Your Business Need an AI Policy?</h3><p>Employees do not always wait for an organisation to formally adopt AI. One of the first governance questions is therefore: how are people already using it?</p></div>
         <div class="pr"><div class="u">5 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d2" href="is-your-website-gdpr-compliant.html">
-        <div class="n display">03</div>
+      <a class="e-row rise d2" href="is-your-website-gdpr-compliant.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Is Your Website GDPR Compliant? Seven Things to Check</h3><p>Your website may collect more personal information than you realise &mdash; from contact forms and cookies to analytics and third-party tools.</p></div>
         <div class="pr"><div class="u">5 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d3" href="employee-privacy-what-should-employers-have-in-place.html">
-        <div class="n display">04</div>
+      <a class="e-row rise d3" href="employee-privacy-what-should-employers-have-in-place.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Employee Privacy: What Should Employers Have in Place?</h3><p>Payroll, performance records and absence data all deserve the same structured attention as customer information.</p></div>
         <div class="pr"><div class="u">5 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d4" href="privacy-notices-what-should-your-business-tell-customers.html">
-        <div class="n display">05</div>
+      <a class="e-row rise d4" href="privacy-notices-what-should-your-business-tell-customers.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Privacy Notices: What Should Your Business Tell Customers?</h3><p>A privacy notice is one of the most visible parts of your compliance. Its purpose is practical: helping people understand what happens to their information.</p></div>
         <div class="pr"><div class="u">5 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d5" href="cookies-and-consent-is-your-website-getting-it-right.html">
-        <div class="n display">06</div>
+      <a class="e-row rise d5" href="cookies-and-consent-is-your-website-getting-it-right.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Cookies and Consent: Is Your Website Getting It Right?</h3><p>Displaying a banner does not make a website compliant. What matters is what happens before and after the visitor makes a choice.</p></div>
         <div class="pr"><div class="u">5 min read</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>

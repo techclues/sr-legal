@@ -13,7 +13,7 @@
   <img class="page-hero-bg" src="assets/images/service-gdpr-hero.jpg" alt=""/>
   <div class="page-hero-overlay"></div>
   <div class="wrap page-hero-content">
-    <nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>&rsaquo;</span><a href="services.html">Services</a><span>&rsaquo;</span><strong>GDPR Health Check</strong></nav>
+    <nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>&rsaquo;</span><a href="services.php">Services</a><span>&rsaquo;</span><strong>GDPR Health Check</strong></nav>
     <span class="kicker kicker-light">Fixed-fee privacy review</span>
     <h1>GDPR Health Check<span class="dot">.</span></h1>
     <p>Understand where your business stands on data protection &mdash; and exactly what to do next. A practical review, priced up front, proportionate to a business your size.</p>
@@ -40,24 +40,24 @@
     <div class="e-split">
       <div class="cl rise"><div class="k">Right for you if</div><h3>Is this service right for me?</h3><p>This service is ideal if any of these describe your business today.</p></div>
       <div class="cr">
-        <div class="e-li rise"><div class="n display">01</div><p>You have never reviewed your GDPR compliance.</p></div>
-        <div class="e-li rise d1"><div class="n display">02</div><p>You have recently started your business.</p></div>
-        <div class="e-li rise d2"><div class="n display">03</div><p>You collect customer or employee information.</p></div>
-        <div class="e-li rise d3"><div class="n display">04</div><p>You want reassurance that you are meeting your responsibilities.</p></div>
-        <div class="e-li rise d4"><div class="n display">05</div><p>You have received a customer questionnaire about your privacy practices.</p></div>
+        <div class="e-li rise"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>You have never reviewed your GDPR compliance.</p></div>
+        <div class="e-li rise d1"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>You have recently started your business.</p></div>
+        <div class="e-li rise d2"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>You collect customer or employee information.</p></div>
+        <div class="e-li rise d3"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>You want reassurance that you are meeting your responsibilities.</p></div>
+        <div class="e-li rise d4"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>You have received a customer questionnaire about your privacy practices.</p></div>
       </div>
     </div>
 
     <div class="e-split" style="margin-top:clamp(44px,6vw,72px);">
       <div class="cl rise"><div class="k">Scope</div><h3>What's included.</h3><p>Seven components, all delivered within the fixed fee. Nothing billed by the hour.</p></div>
       <div class="cr">
-        <div class="e-li rise"><div class="n display">01</div><p>Review of your current privacy arrangements</p></div>
-        <div class="e-li rise d1"><div class="n display">02</div><p>Website privacy review</p></div>
-        <div class="e-li rise d1"><div class="n display">03</div><p>Review of your existing policies</p></div>
-        <div class="e-li rise d2"><div class="n display">04</div><p>ICO registration check</p></div>
-        <div class="e-li rise d2"><div class="n display">05</div><p>Practical recommendations</p></div>
-        <div class="e-li rise d3"><div class="n display">06</div><p>Written summary report</p></div>
-        <div class="e-li rise d3"><div class="n display">07</div><p>30-minute follow-up consultation</p></div>
+        <div class="e-li rise"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Review of your current privacy arrangements</p></div>
+        <div class="e-li rise d1"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Website privacy review</p></div>
+        <div class="e-li rise d1"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Review of your existing policies</p></div>
+        <div class="e-li rise d2"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>ICO registration check</p></div>
+        <div class="e-li rise d2"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Practical recommendations</p></div>
+        <div class="e-li rise d3"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Written summary report</p></div>
+        <div class="e-li rise d3"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>30-minute follow-up consultation</p></div>
       </div>
     </div>
   </div>
@@ -68,10 +68,10 @@
     <div class="k rise">The process <span class="dash"></span></div>
     <h2 class="rise d1">How it works<span class="dot">.</span></h2>
     <div class="e-grid4">
-      <div class="it rise"><div class="n display">01</div><h4>Book your consultation</h4><p>A free 30-minute call to understand your business and confirm scope.</p></div>
-      <div class="it rise d1"><div class="n display">02</div><h4>We review your business</h4><p>We examine your arrangements, website, policies and ICO registration.</p></div>
-      <div class="it rise d2"><div class="n display">03</div><h4>You receive a clear report</h4><p>Written findings in plain English, explaining what needs attention and why.</p></div>
-      <div class="it rise d3"><div class="n display">04</div><h4>You decide what's next</h4><p>Implement the recommendations yourself, or ask us to carry them out.</p></div>
+      <div class="it rise"><h4>Book your consultation</h4><p>A free 30-minute call to understand your business and confirm scope.</p></div>
+      <div class="it rise d1"><h4>We review your business</h4><p>We examine your arrangements, website, policies and ICO registration.</p></div>
+      <div class="it rise d2"><h4>You receive a clear report</h4><p>Written findings in plain English, explaining what needs attention and why.</p></div>
+      <div class="it rise d3"><h4>You decide what's next</h4><p>Implement the recommendations yourself, or ask us to carry them out.</p></div>
     </div>
   </div>
 </section>
@@ -121,20 +121,20 @@
       <p class="rise d2">Choose focused support now, with the option to add further help as your needs develop.</p>
     </div>
     <div class="e-index">
-      <a class="e-row rise" href="business-privacy-essentials.html">
-        <div class="n display">01</div>
+      <a class="e-row rise" href="business-privacy-essentials.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Business Privacy Essentials</h3><p>Build the essential privacy documents your business needs &mdash; notices, policies and records, written for how you actually operate.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;695</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d1" href="website-privacy-review.html">
-        <div class="n display">02</div>
+      <a class="e-row rise d1" href="website-privacy-review.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Website Compliance Review</h3><p>Review privacy notices, cookies, forms and online data collection &mdash; the areas most likely to be wrong without anyone noticing.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;199</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d2" href="ongoing-privacy-support.html">
-        <div class="n display">03</div>
+      <a class="e-row rise d2" href="ongoing-privacy-support.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Ongoing Privacy Support</h3><p>Keep access to practical advice as your business grows, without the cost of an in-house team.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;99</div><div class="u">/ month</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
@@ -149,7 +149,7 @@
     <div class="rise"><h2>Ready to know where you <em>actually</em> stand<span class="dot">?</span></h2>
       <p>Book a free 30-minute consultation and we'll tell you whether a health check is what you need &mdash; or whether something smaller will do.</p></div>
     <div class="e-btns rise d2">
-      <a href="contact.html" class="btn btn-gold">Contact us</a>
+      <a href="contact.php" class="btn btn-gold">Contact us</a>
       <div class="small">GDPR health check from &pound;199 + VAT</div>
     </div>
   </div>

@@ -42,14 +42,14 @@
     <div class="e-delivered rise d2">
       <div class="l">What was delivered</div>
       <div class="e-dgrid">
-        <div class="it"><span class="n">01</span><p>Privacy-by-design support throughout the transformation</p></div>
-        <div class="it"><span class="n">02</span><p>DPIAs and privacy risk assessments</p></div>
-        <div class="it"><span class="n">03</span><p>Records of Processing Activities</p></div>
-        <div class="it"><span class="n">04</span><p>International data-transfer assessments</p></div>
-        <div class="it"><span class="n">05</span><p>Supplier and third-party privacy reviews</p></div>
-        <div class="it"><span class="n">06</span><p>Data retention and minimisation requirements</p></div>
-        <div class="it"><span class="n">07</span><p>Access controls and protection of employee data</p></div>
-        <div class="it"><span class="n">08</span><p>Cross-functional work with legal, technology, security and business teams</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Privacy-by-design support throughout the transformation</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>DPIAs and privacy risk assessments</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Records of Processing Activities</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>International data-transfer assessments</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Supplier and third-party privacy reviews</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Data retention and minimisation requirements</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Access controls and protection of employee data</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Cross-functional work with legal, technology, security and business teams</p></div>
       </div>
     </div>
     <div class="e-result rise d3">
@@ -74,14 +74,14 @@
     <div class="e-delivered rise d2">
       <div class="l">What was delivered</div>
       <div class="e-dgrid">
-        <div class="it"><span class="n">01</span><p>Privacy advice supporting the separation programme</p></div>
-        <div class="it"><span class="n">02</span><p>Review of data-processing activities</p></div>
-        <div class="it"><span class="n">03</span><p>Data mapping and RoPA updates</p></div>
-        <div class="it"><span class="n">04</span><p>DPIAs and privacy risk assessments</p></div>
-        <div class="it"><span class="n">05</span><p>Review of data-sharing arrangements</p></div>
-        <div class="it"><span class="n">06</span><p>International transfer considerations</p></div>
-        <div class="it"><span class="n">07</span><p>Privacy notices and documentation updates</p></div>
-        <div class="it"><span class="n">08</span><p>Practical privacy controls advised to programme stakeholders</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Privacy advice supporting the separation programme</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Review of data-processing activities</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Data mapping and RoPA updates</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>DPIAs and privacy risk assessments</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Review of data-sharing arrangements</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>International transfer considerations</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Privacy notices and documentation updates</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Practical privacy controls advised to programme stakeholders</p></div>
       </div>
     </div>
     <div class="e-result rise d3">
@@ -106,14 +106,14 @@
     <div class="e-delivered rise d2">
       <div class="l">What was delivered</div>
       <div class="e-dgrid">
-        <div class="it"><span class="n">01</span><p>Global privacy advisory support</p></div>
-        <div class="it"><span class="n">02</span><p>DPIAs and privacy risk assessments</p></div>
-        <div class="it"><span class="n">03</span><p>Data-processing and vendor reviews</p></div>
-        <div class="it"><span class="n">04</span><p>International data-transfer guidance</p></div>
-        <div class="it"><span class="n">05</span><p>Privacy policies and governance documentation</p></div>
-        <div class="it"><span class="n">06</span><p>Support with data-subject rights</p></div>
-        <div class="it"><span class="n">07</span><p>Stakeholder guidance and privacy awareness</p></div>
-        <div class="it"><span class="n">08</span><p>Applying privacy requirements to operational activities</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Global privacy advisory support</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>DPIAs and privacy risk assessments</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Data-processing and vendor reviews</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>International data-transfer guidance</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Privacy policies and governance documentation</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Support with data-subject rights</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Stakeholder guidance and privacy awareness</p></div>
+        <div class="it"><span class="n"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></span><p>Applying privacy requirements to operational activities</p></div>
       </div>
     </div>
     <div class="e-result rise d3">

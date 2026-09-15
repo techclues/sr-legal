@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Website Compliance Review | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#071f46" name="theme-color"/><meta content="Website compliance review covering privacy notices, cookie banners, forms and personal-data collection practices, with a clear compliance action plan." name="description"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Playfair+Display:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/><style>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Business Privacy Essentials | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#071f46" name="theme-color"/><meta content="Build strong privacy foundations with essential documents, policies and practical guidance tailored to your business." name="description"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Playfair+Display:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/><style>
 :root{--navy:#071f46;--royal:#0047AB;--emerald:#0F6B5B;--gold:#C8A34D;--warm:#FAF9F7;--soft:#F2F5F8;--ink:#2E3238;--muted:#667085;--line:#D8DDE3;--white:#fff;--shadow:0 24px 70px rgba(7,31,70,.13);--shadow-sm:0 12px 36px rgba(7,31,70,.09);--radius:26px}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--warm);color:var(--ink);font-family:Inter,Arial,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}img{display:block;max-width:100%}a{text-decoration:none;color:inherit}button,input,select,textarea{font:inherit}h1,h2,h3,h4{font-family:"Playfair Display",Georgia,serif;color:var(--navy);line-height:1.09;margin:0}h1{font-size:clamp(2.65rem,5.2vw,5rem);letter-spacing:-.04em}h2{font-size:clamp(2rem,3.1vw,3.2rem);letter-spacing:-.03em}h3{font-size:1.45rem}p{margin:0 0 1rem}.container{width:min(1200px,calc(100% - 44px));margin-inline:auto}.icon{width:20px;height:20px;flex:0 0 20px}.skip-link{position:absolute;left:-9999px}.skip-link:focus{left:12px;top:12px;background:#fff;padding:10px 14px;z-index:9999}.topbar{background:linear-gradient(90deg,#061937,#0b326b);color:#fff;font-size:.82rem}.topbar-inner{min-height:40px;display:flex;align-items:center;justify-content:space-between;gap:20px}.topbar-links{display:flex;align-items:center;gap:20px}.topbar a{display:inline-flex;align-items:center;gap:7px;color:#fff}.topbar .icon{width:15px;height:15px}.header{position:sticky;top:0;z-index:90;background:rgba(250,249,247,.95);backdrop-filter:blur(18px);border-bottom:1px solid rgba(7,31,70,.08);box-shadow:0 7px 30px rgba(7,31,70,.04)}.header::after{content:"";display:block;height:2px;background:linear-gradient(90deg,var(--royal),var(--emerald),var(--gold))}.nav{height:92px;display:flex;align-items:center;justify-content:space-between;gap:28px}.logo{display:inline-flex;align-items:center}.logo img{height:66px;width:auto}.nav-links{display:flex;align-items:center;gap:28px;font-weight:700;font-size:.92rem}.nav-links>a,.nav-trigger{position:relative;padding:34px 0;color:#172842}.nav-links>a:not(.button)::after,.nav-trigger::after{content:"";position:absolute;left:50%;right:50%;bottom:23px;height:2px;background:var(--gold);transition:.25s}.nav-links>a.active::after,.nav-links>a:hover::after,.nav-dropdown.active>.nav-trigger::after,.nav-dropdown:hover>.nav-trigger::after{left:0;right:0}.nav-dropdown{position:relative}.nav-trigger{display:inline-flex;align-items:center;gap:6px}.nav-trigger svg{width:13px;height:13px}.dropdown-menu{position:absolute;left:50%;top:72px;transform:translate(-50%,10px);width:315px;background:#fff;border:1px solid rgba(7,31,70,.08);border-radius:20px;padding:10px;box-shadow:var(--shadow);opacity:0;visibility:hidden;transition:.22s}.nav-dropdown:hover .dropdown-menu,.nav-dropdown:focus-within .dropdown-menu{opacity:1;visibility:visible;transform:translate(-50%,0)}.dropdown-menu a{display:flex;gap:12px;align-items:flex-start;padding:12px;border-radius:14px;color:var(--navy)}.dropdown-menu a:hover,.dropdown-menu a.active{background:#eef4fb;color:var(--royal)}.dropdown-menu .icon{margin-top:2px}.dropdown-menu strong{display:block;font-family:"Playfair Display",Georgia,serif;font-size:1rem}.dropdown-menu span{display:block;color:var(--muted);font-weight:500;font-size:.76rem;line-height:1.4;margin-top:2px}.button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:14px 23px;border-radius:999px;font-weight:800;border:1px solid transparent;transition:.25s ease;line-height:1.1;text-align:center}.button:hover{transform:translateY(-3px);box-shadow:0 16px 34px rgba(7,31,70,.16)}.button-primary{background:var(--royal);color:#fff;box-shadow:0 12px 28px rgba(0,71,171,.22)}.button-gold{background:linear-gradient(135deg,#d7b65f,#c19736);color:#142039;box-shadow:0 12px 28px rgba(200,163,77,.25)}.button-outline{background:#fff;color:var(--royal);border-color:rgba(0,71,171,.23)}.button-light{background:#fff;color:var(--navy)}.button-emerald{background:var(--emerald);color:#fff}.button-sm{min-height:44px;padding:11px 17px;font-size:.86rem}.nav-cta{min-height:50px!important;box-shadow:0 12px 30px rgba(200,163,77,.32)!important}.menu-button{display:none;background:transparent;border:0;padding:8px;cursor:pointer}.menu-button span{display:block;width:28px;height:2px;background:var(--navy);margin:6px 0;border-radius:4px}.mobile-menu{display:none;background:#fff;border-top:1px solid var(--line);padding:8px 22px 22px}.mobile-menu.open{display:grid}.mobile-menu>a{padding:12px 0;font-weight:700}.mobile-services summary{padding:12px 0;font-weight:700;cursor:pointer;color:var(--navy)}.mobile-services div{display:grid;padding:0 0 8px 15px}.mobile-services a{padding:8px 0;color:var(--muted)}.kicker{display:inline-flex;align-items:center;gap:8px;color:var(--emerald);font-weight:800;font-size:.74rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px}.kicker::before{content:"";width:30px;height:2px;background:var(--gold)}.kicker-light{color:#f2dfaa}.hero{position:relative;min-height:610px;display:flex;align-items:center;overflow:hidden;background:#071f46}.hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,14,31,.94),rgba(4,21,45,.72) 53%,rgba(4,18,39,.25))}.hero-content{position:relative;z-index:2;color:#fff;padding:90px 0}.hero-copy{max-width:760px}.hero h1,.hero h2{color:#fff}.hero p{max-width:650px;color:rgba(255,255,255,.88);font-size:1.08rem;margin-top:20px}.hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px}.trust-bar{background:#fff;border-bottom:1px solid var(--line)}.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:18px 0}.trust-item{display:flex;align-items:center;justify-content:center;gap:9px;color:var(--navy);font-weight:700;font-size:.88rem}.trust-item .icon{color:var(--emerald)}.page-hero{position:relative;min-height:390px;display:flex;align-items:center;overflow:hidden;background:#071f46}.page-hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.page-hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,14,31,.94),rgba(4,21,45,.58))}.page-hero-content{position:relative;z-index:2;color:#fff;padding:75px 0}.page-hero h1{color:#fff;max-width:900px}.page-hero p{max-width:720px;color:rgba(255,255,255,.87);font-size:1.07rem;margin-top:18px}.section{padding:92px 0}.section-soft{background:linear-gradient(180deg,#f5f7f9,#eef2f5)}.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:34px;margin-bottom:38px}.section-head>div{max-width:800px}.section-head>p{max-width:470px;color:var(--muted);margin:0}.intro-grid,.about-grid,.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:58px;align-items:center}.intro-copy>p,.about-copy>p{color:var(--muted);font-size:1.04rem}.image-card{border-radius:30px;overflow:hidden;box-shadow:var(--shadow);position:relative}.image-card img{width:100%;height:480px;object-fit:cover}.benefit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.benefit-card,.info-card{background:#fff;padding:27px;border-radius:23px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm)}.benefit-card .icon,.info-card .icon{width:30px;height:30px;color:var(--royal);margin-bottom:14px}.benefit-card h3,.info-card h3{margin-bottom:8px}.benefit-card p,.info-card p{color:var(--muted);margin:0}.service-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.service-card{background:#fff;border-radius:25px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm);overflow:hidden;transition:.3s;display:flex;flex-direction:column}.service-card:hover{transform:translateY(-8px);box-shadow:var(--shadow)}.service-image{height:210px;position:relative;overflow:hidden}.service-image img{width:100%;height:100%;object-fit:cover;transition:.55s}.service-card:hover .service-image img{transform:scale(1.06)}.service-image::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(7,31,70,.62))}.service-badge{position:absolute;left:18px;bottom:16px;z-index:2;background:#fff;color:var(--royal);width:48px;height:48px;border-radius:15px;display:grid;place-items:center;box-shadow:0 10px 26px rgba(7,31,70,.2)}.service-badge .icon{width:24px;height:24px}.popular{position:absolute;right:14px;top:14px;z-index:2;background:var(--gold);color:#142039;border-radius:999px;padding:7px 11px;font-size:.7rem;font-weight:800}.service-body{padding:25px;display:flex;flex-direction:column;flex:1}.service-body h3{margin-bottom:9px}.service-body p{color:var(--muted)}.service-price{color:var(--emerald);font-weight:800;margin-top:auto;padding-top:10px}.service-link{display:inline-flex;align-items:center;gap:8px;color:var(--royal);font-weight:800;margin-top:14px}.cta-panel{background:linear-gradient(130deg,#071f46,#0d477d);border-radius:30px;padding:45px;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:28px;box-shadow:var(--shadow)}.cta-panel h2,.cta-panel p{color:#fff}.cta-panel p{color:rgba(255,255,255,.84);max-width:700px}.cta-actions{display:flex;gap:12px;flex-wrap:wrap;flex:0 0 auto}.about-founder{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}.founder-photo{border-radius:30px;overflow:hidden;box-shadow:var(--shadow);position:relative}.founder-photo img{width:100%;height:610px;object-fit:cover;object-position:center 18%}.experience-card{position:absolute;left:22px;right:22px;bottom:22px;background:rgba(7,31,70,.92);backdrop-filter:blur(8px);color:#fff;padding:18px 20px;border-radius:18px}.experience-card strong{display:block;font-family:"Playfair Display",Georgia,serif;font-size:1.35rem}.experience-card span{font-size:.9rem;color:rgba(255,255,255,.82)}.check-list{list-style:none;padding:0;margin:22px 0;display:grid;gap:11px}.check-list li{display:flex;gap:10px;align-items:flex-start}.check-list .icon{color:var(--emerald);margin-top:3px}.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.plan{position:relative;background:#fff;border-radius:24px;padding:30px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm);display:flex;flex-direction:column}.plan.featured{background:linear-gradient(155deg,#052a63,#0047ab);color:#fff;transform:scale(1.025)}.plan h3{font-size:2rem;margin-bottom:10px}.plan h3 small{font-family:Inter;font-size:.82rem;color:var(--muted)}.plan.featured h3,.plan.featured p,.plan.featured li,.plan.featured small,.plan.featured .plan-label{color:#fff}.plan-label{display:block;color:var(--emerald);font-size:.74rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px}.plan ul{padding-left:20px;color:var(--muted)}.plan-meta{margin-top:auto;padding-top:18px;border-top:1px solid var(--line);font-size:.88rem}.plan.featured .plan-meta{border-color:rgba(255,255,255,.2)}.plan-badge{position:absolute;top:18px;right:18px;background:var(--gold);color:#142039;padding:6px 11px;border-radius:999px;font-size:.7rem;font-weight:800}.price-table{overflow:auto;background:#fff;border-radius:24px;box-shadow:var(--shadow-sm);border:1px solid rgba(7,31,70,.07)}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:18px 20px;border-bottom:1px solid var(--line)}th{background:#eef4fb;color:var(--navy);font-family:"Playfair Display",Georgia,serif;font-size:1.05rem}tr:last-child td{border-bottom:0}.service-layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:38px;align-items:start}.service-main{min-width:0}.service-main h2{margin:38px 0 14px}.service-main h3{margin:28px 0 10px}.service-main p{color:#536071}.service-main ul{padding-left:22px}.service-main li{margin:8px 0}.glance{position:sticky;top:125px;background:linear-gradient(155deg,#071f46,#0f6b5b);color:#fff;border-radius:25px;padding:26px;box-shadow:var(--shadow)}.glance h2{color:#fff;font-size:1.65rem;margin-bottom:18px}.glance-row{padding:13px 0;border-top:1px solid rgba(255,255,255,.15)}.glance-row:first-of-type{border-top:0}.glance-row span{display:block;color:#f2d98e;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em}.glance-row strong{display:block;margin-top:4px}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin-top:18px}.step{background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px}.step strong{display:block;color:var(--gold);font-family:"Playfair Display",Georgia,serif;font-size:1.6rem}.faq{display:grid;gap:12px}.faq details{background:#fff;border:1px solid var(--line);border-radius:17px;padding:16px 19px}.faq summary{cursor:pointer;font-weight:800;color:var(--navy)}.faq p{margin:12px 0 0}.legal-layout{display:grid;grid-template-columns:260px minmax(0,1fr);gap:38px;align-items:start}.legal-toc{position:sticky;top:125px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:var(--shadow-sm)}.legal-toc strong{font-family:"Playfair Display",Georgia,serif;color:var(--navy);font-size:1.15rem}.legal-toc nav{display:grid;margin-top:12px}.legal-toc a{padding:8px 0;color:var(--muted);font-size:.88rem}.legal-toc a:hover{color:var(--royal)}.legal-content{background:#fff;border:1px solid rgba(7,31,70,.07);border-radius:26px;padding:38px;box-shadow:var(--shadow-sm)}.legal-content h2{font-size:2rem;margin:36px 0 12px;scroll-margin-top:125px}.legal-content h2:first-child{margin-top:0}.legal-content h3{font-size:1.3rem;margin:26px 0 8px}.legal-content p,.legal-content li{color:#536071}.legal-content ul{padding-left:22px}.notice{background:#edf5fb;border-left:4px solid var(--royal);padding:17px 19px;border-radius:0 15px 15px 0;margin:20px 0;color:#334155}.contact-card{background:#fff;border-radius:26px;padding:30px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm)}.form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:17px}.field{display:grid;gap:7px}.field.full{grid-column:1/-1}.field label{font-weight:800;color:var(--navy)}.field input,.field textarea,.field select{width:100%;border:1px solid var(--line);background:#fff;border-radius:14px;padding:13px 15px;color:var(--ink)}.field textarea{min-height:145px;resize:vertical}.footer{background:#07162f;color:#d6deeb;margin-top:80px;padding-top:54px}.footer-grid{display:grid;grid-template-columns:1.25fr .7fr .75fr 1fr;gap:30px}.footer-logo img{height:64px;filter:brightness(1.2)}.footer p{color:#b8c4d7}.footer h3{color:#fff;font-size:1.12rem;margin-bottom:12px}.footer-links{display:grid;gap:9px}.footer a:hover{color:#fff}.footer-contact{display:grid;gap:9px}.footer-contact a{display:inline-flex;align-items:center;gap:8px}.footer-legal{margin-top:35px;padding:25px 0;border-top:1px solid rgba(255,255,255,.1);font-size:.83rem;color:#b8c4d7;display:grid;gap:5px}.footer-legal a{color:#f2d98e}.footer-bottom{padding:18px 0;border-top:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;gap:18px;font-size:.82rem;color:#98a8bf}.reveal{opacity:0;transform:translateY(25px);transition:opacity .7s ease,transform .7s ease}.reveal.visible{opacity:1;transform:none}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.reveal{opacity:1!important;transform:none!important;transition:none!important}}
 @media(max-width:1040px){.nav-links>a:not(.button),.nav-dropdown{display:none}.menu-button{display:block}.benefit-grid,.service-grid,.plans{grid-template-columns:repeat(2,1fr)}.intro-grid,.about-grid,.contact-grid,.about-founder,.service-layout,.legal-layout{grid-template-columns:1fr}.glance,.legal-toc{position:relative;top:auto}.legal-toc nav{grid-template-columns:repeat(2,1fr);gap:0 18px}.steps{grid-template-columns:repeat(2,1fr)}.footer-grid{grid-template-columns:repeat(2,1fr)}}
@@ -199,9 +199,7 @@ main p { text-wrap:pretty; }
   .experience-v23-intro h2 + p { margin-top:14px !important; }
 }
 </style>
-<link rel="stylesheet" href="assets/css/cookie-consent.css?v=32"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><a class="skip-link" href="#main">Skip to content</a>
-
-<header class="header"><div class="container nav"><a class="logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/><span class="logo-tagline">Privacy. Governance. Growth.</span></a><nav aria-label="Primary navigation" class="nav-links"><a class="" href="index.php">Home</a><a class="" href="about.html">About</a><div class="nav-dropdown active"><a class="nav-trigger" href="services.html">Services <svg fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24"><path d="m6 9 6 6 6-6"></path></svg></a><div class="dropdown-menu"><a href="gdpr-health-check.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"></path><path d="m9 12 2 2 4-5"></path></svg><strong>GDPR Health Check</strong></a><a href="business-privacy-essentials.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"></path><path d="M14 3v5h5M9 12h6M9 16h6"></path></svg><strong>Business Privacy Essentials</strong></a><a class="active" href="website-privacy-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"></path></svg><strong>Website Compliance Review</strong></a><a href="employee-privacy-pack.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M16 20v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2M9.5 10a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM17 11a4 4 0 0 1 4 4v5M16 3.2a4 4 0 0 1 0 7.6"></path></svg><strong>Employee Privacy Pack</strong></a><a href="ai-for-business-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M18 9h3M3 15h3M18 15h3"></path><rect height="12" rx="3" width="12" x="6" y="6"></rect><path d="M9 14v-4h2.2a2 2 0 0 1 0 4H9Zm6-4v4"></path></svg><strong>AI Governance</strong></a><a href="ongoing-privacy-support.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 13v-2a8 8 0 0 1 16 0v2"></path><path d="M4 13h3v6H5a1 1 0 0 1-1-1zM20 13h-3v6h2a1 1 0 0 0 1-1zM17 19c0 1.1-.9 2-2 2h-3"></path></svg><strong>Ongoing Privacy Support</strong></a></div></div><a class="" href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a class="" href="pricing.php">Pricing</a><a class="" href="contact.html">Contact</a></nav><div class="nav-actions"><a class="button button-gold nav-cta" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><button aria-expanded="false" aria-label="Open navigation" class="menu-button" data-menu-button=""><span></span><span></span><span></span></button></div></div><div class="mobile-menu" data-mobile-menu=""><a href="index.php">Home</a><a href="about.html">About</a><details class="mobile-services"><summary>Services</summary><div><a href="gdpr-health-check.php">GDPR Health Check</a><a href="business-privacy-essentials.html">Business Privacy Essentials</a><a href="website-privacy-review.html">Website Compliance Review</a><a href="employee-privacy-pack.html">Employee Privacy Pack</a><a href="ai-for-business-review.html">AI Governance</a><a href="ongoing-privacy-support.html">Ongoing Privacy Support</a></div></details><a href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a href="pricing.php">Pricing</a><a href="contact.html">Contact</a><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a></div></header><main id="main"><section class="page-hero service-page-hero"><img alt="" class="page-hero-bg" src="assets/images/service-website-hero.jpg"/><div class="page-hero-overlay"></div><div class="container page-hero-content"><nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>›</span><a href="services.html">Services</a><span>›</span><strong>Website Compliance Review</strong></nav><span class="kicker kicker-light">Website compliance service</span><h1>Website Compliance Review</h1><p>Is your website collecting personal data correctly?</p><div class="service-hero-actions"><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><a class="button button-light" href="pricing.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"></path></svg><span>View Pricing</span></a></div><div class="service-hero-facts"><div><span>Starting from</span><strong>£199 + VAT</strong></div><div><span>Timescale</span><strong>Typically 1–2 weeks</strong></div><div><span>Primary outcome</span><strong>Clear Compliance Action Plan</strong></div></div></div></section><section aria-label="Free consultation" class="consultation-strip"><div class="container consultation-strip-inner"><div class="consultation-strip-copy"><span class="consultation-label">Free 30-minute consultation</span><h2>Talk through your privacy or compliance needs.</h2><p>No obligation. Clear guidance. Practical next steps for your business.</p></div></div></section><div class="editorial">
+<link href="assets/css/cookie-consent.css" rel="stylesheet"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><?php $active = 'services'; $activeService = 'business-privacy-essentials'; include __DIR__ . '/partials/nav.php'; ?><main id="main"><section class="page-hero service-page-hero"><img alt="" class="page-hero-bg" src="assets/images/service-business-hero.jpg"/><div class="page-hero-overlay"></div><div class="container page-hero-content"><nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>›</span><a href="services.php">Services</a><span>›</span><strong>Business Privacy Essentials</strong></nav><span class="kicker kicker-light">Featured privacy package</span><h1>Business Privacy Essentials</h1><p>Everything you need to build practical privacy foundations for your business.</p><div class="service-hero-actions"><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><a class="button button-light" href="pricing.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"></path></svg><span>View Pricing</span></a></div><div class="service-hero-facts"><div><span>Starting from</span><strong>£695 + VAT</strong></div><div><span>Timescale</span><strong>Typically 1–2 weeks</strong></div><div><span>Primary outcome</span><strong>Complete Privacy Documentation</strong></div></div></div></section><section aria-label="Free consultation" class="consultation-strip"><div class="container consultation-strip-inner"><div class="consultation-strip-copy"><span class="consultation-label">Free 30-minute consultation</span><h2>Not sure if this package is right for your business?</h2><p>Book a free 30-minute consultation and we'll recommend the most suitable solution based on your business, how you use personal data and your current documentation.</p></div></div></section><div class="editorial">
 <div class="e-trust-bar">
   <div class="wrap e-trust-bar-inner">
     <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Practical, jargon-free advice</span></div>
@@ -209,33 +207,34 @@ main p { text-wrap:pretty; }
     <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h6M9 9h2"/></svg><span>Useful written outputs</span></div>
     <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg><span>Business-focused recommendations</span></div>
   </div>
-</div>
-
-<section class="e-section">
+</div><section class="e-section">
   <div class="wrap">
     <div class="k">Overview <span class="dash"></span></div>
-    <h2>Is your website collecting personal data correctly?</h2>
-    <p>We’ll review your website’s privacy notice, cookie banner, forms and data collection practices, then provide clear, practical recommendations to help improve your compliance.</p>
+    <h2>Build strong privacy foundations<span class="dot">.</span></h2>
+    <p>Everything your business needs to establish practical privacy documentation in one focused package.</p>
+    <p>Instead of purchasing documents individually, Business Privacy Essentials provides a practical starting point tailored to your business.</p>
 
     <div class="e-split">
-      <div class="cl"><div class="k">Common issues</div><h3>Common issues we identify</h3><p>Problems we see time and again across UK business websites.</p></div>
+      <div class="cl"><div class="k">What’s included</div><h3>What’s included?</h3><p>Seven components, all delivered within the fixed fee.</p></div>
       <div class="cr">
-        <div class="e-li"><div class="n display">01</div><p>Missing or unclear Privacy Notice</p></div>
-        <div class="e-li"><div class="n display">02</div><p>Cookie banner not configured correctly</p></div>
-        <div class="e-li"><div class="n display">03</div><p>Contact forms collecting unnecessary data</p></div>
-        <div class="e-li"><div class="n display">04</div><p>Analytics used without appropriate transparency</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Privacy Notice</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Employee Privacy Notice</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Data Protection Policy</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Retention Schedule</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Data Processing Agreement</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Basic GDPR guidance</p></div>
       </div>
     </div>
 
     <div class="e-split" style="margin-top:clamp(44px,6vw,72px);">
-      <div class="cl"><div class="k">Scope</div><h3>What we review</h3><p>Six areas, all covered within the fixed fee.</p></div>
+      <div class="cl"><div class="k">Right for you if</div><h3>Who is this package for?</h3><p>This package is ideal if any of these describe your business today.</p></div>
       <div class="cr">
-        <div class="e-li"><div class="n display">01</div><p>Website Privacy Notice</p></div>
-        <div class="e-li"><div class="n display">02</div><p>Cookie banner and cookie information</p></div>
-        <div class="e-li"><div class="n display">03</div><p>Contact forms and online data collection</p></div>
-        <div class="e-li"><div class="n display">04</div><p>Marketing consent and transparency</p></div>
-        <div class="e-li"><div class="n display">05</div><p>Analytics and tracking disclosures</p></div>
-        <div class="e-li"><div class="n display">06</div><p>Practical recommendations for improvement</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Sole traders &amp; small businesses</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>New businesses</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Growing businesses</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Businesses with employees</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Businesses without formal privacy documentation</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Businesses looking to strengthen their GDPR foundations</p></div>
       </div>
     </div>
   </div>
@@ -246,10 +245,10 @@ main p { text-wrap:pretty; }
     <div class="k">The process <span class="dash"></span></div>
     <h2>How it works<span class="dot">.</span></h2>
     <div class="e-grid4">
-      <div class="it"><div class="n display">01</div><h4>Book your consultation</h4></div>
-      <div class="it"><div class="n display">02</div><h4>Share your website details and current privacy information</h4></div>
-      <div class="it"><div class="n display">03</div><h4>We review the areas where personal data is collected</h4></div>
-      <div class="it"><div class="n display">04</div><h4>You receive clear findings and recommended next steps</h4></div>
+      <div class="it"><h4>Book a free consultation</h4></div>
+      <div class="it"><h4>We learn how your business collects and uses personal data</h4></div>
+      <div class="it"><h4>We prepare the agreed documents and guidance</h4></div>
+      <div class="it"><h4>You receive a practical privacy foundation for your business</h4></div>
     </div>
   </div>
 </section>
@@ -260,33 +259,33 @@ main p { text-wrap:pretty; }
     <h2>Frequently asked<span class="dot">.</span></h2>
     <div class="e-faq">
       <div class="e-faq-col">
-        <div class="fitem open"><div class="fq"><h4>What does the Website Compliance Review include?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>We review the key areas where your website collects and processes personal information, including your privacy notice, cookie banner, contact forms, booking forms and other data collection points. You’ll receive practical recommendations to help improve compliance.</p></div></div>
-        <div class="fitem"><div class="fq"><h4>Do you review cookie banners and cookies?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>Yes. We’ll review your cookie banner, consent settings and the information provided to visitors to help ensure your website is transparent and follows UK GDPR and PECR requirements.</p></div></div>
-        <div class="fitem"><div class="fq"><h4>Can you review contact and booking forms?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>Yes. We’ll review the information your forms collect, whether it’s appropriate for your business and whether the supporting privacy information is clear and accessible.</p></div></div>
+        <div class="fitem open"><div class="fq"><h4>What is included in the Business Privacy Essentials package?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>The package includes the core privacy documents most growing businesses need, including a Privacy Notice, Employee Privacy Notice, Data Protection Policy, Retention Schedule, Data Processing Agreement and practical GDPR guidance. Everything is prepared to reflect your business and how it operates.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Are the documents tailored to my business?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. We don’t simply send generic templates. We take the time to understand your business, the personal information you process and how you work, so the documents are relevant, practical and tailored to your organisation.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Is this suitable for a new business?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Absolutely. Business Privacy Essentials is ideal for new and growing businesses that want to build strong privacy foundations from the start, helping you demonstrate professionalism and meet your data protection responsibilities.</p></div></div>
       </div>
       <div class="e-faq-col">
-        <div class="fitem"><div class="fq"><h4>Will you make changes to my website?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>The review identifies what needs attention and provides clear recommendations. If you’d like help implementing the changes, we can provide separate implementation support or work with your website developer.</p></div></div>
-        <div class="fitem"><div class="fq"><h4>What will I receive after the review?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>You’ll receive a written report explaining what we’ve reviewed, any compliance issues we’ve identified and practical recommendations to help improve your website’s privacy compliance.</p></div></div>
-        <div class="fitem"><div class="fq"><h4>Is this suitable for any website?</h4><span class="pl">+</span></div>
-          <div class="fa"><p>Yes. Whether you operate a brochure website, online booking system, e-commerce store or business website, we tailor the review to the way your website collects and uses personal information.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Can I buy individual documents instead?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>The package is designed to provide everything most businesses need in one cost-effective solution. However, if you only require specific documents or have unique requirements, we’re happy to discuss a tailored approach.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>What happens if my business changes?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>As your business grows, your privacy documentation may need updating. We can review and update your documents whenever your services, systems, staff or data processing activities change.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Do you provide ongoing support?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. If you need advice after your documents have been completed, you can choose one of our ongoing Privacy Support plans. This gives you access to practical guidance whenever questions arise and helps keep your documentation up to date.</p></div></div>
       </div>
     </div>
   </div>
 </section><section class="e-band">
   <div class="wrap">
     <div class="k">What you can expect</div>
-    <h2>A clearer, more trustworthy online experience<span class="dot">.</span></h2>
-    <p style="color:#D3E2DA;max-width:52ch;">Improve transparency, reduce avoidable privacy risk and give your developer practical actions to implement.</p>
+    <h2>A coordinated privacy foundation for your business<span class="dot">.</span></h2>
+    <p style="color:#D3E2DA;max-width:52ch;">Receive essential documents that work together and reflect the way your organisation actually operates.</p>
     <div class="e-band-row" style="grid-template-columns:repeat(4,1fr);">
-      <div class="b"><h4>Clearer privacy information</h4></div>
-      <div class="b"><h4>Better cookie and consent choices</h4></div>
-      <div class="b"><h4>More proportionate online forms</h4></div>
-      <div class="b"><h4>Practical website recommendations</h4></div>
+      <div class="b"><h4>Tailored documentation</h4></div>
+      <div class="b"><h4>Clearer internal responsibilities</h4></div>
+      <div class="b"><h4>Better customer and employee transparency</h4></div>
+      <div class="b"><h4>A practical base for future growth</h4></div>
     </div>
   </div>
 </section><section class="e-section alt">
@@ -297,21 +296,21 @@ main p { text-wrap:pretty; }
     </div>
     <div class="e-index">
       <a class="e-row" href="gdpr-health-check.php">
-        <div class="n display">01</div>
-        <div class="m"><h3>GDPR Health Check</h3><p>Review privacy arrangements across the wider business.</p></div>
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>GDPR Health Check</h3><p>Review your current position before implementing improvements.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">£199</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row" href="business-privacy-essentials.html">
-        <div class="n display">02</div>
-        <div class="m"><h3>Business Privacy Essentials</h3><p>Put core privacy documents in place.</p></div>
-        <div class="pr"><div class="from">From</div><div class="v display">£695</div><div class="u">+ VAT</div></div>
+      <a class="e-row" href="employee-privacy-pack.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>Employee Privacy Pack</h3><p>Focus specifically on workplace and employee information.</p></div>
+        <div class="pr"><div class="from">From</div><div class="v display">£295</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row" href="ai-for-business-review.html">
-        <div class="n display">03</div>
-        <div class="m"><h3>AI Governance</h3><p>Build practical governance for safe, responsible and accountable AI use.</p></div>
-        <div class="pr"><div class="from">Pricing</div><div class="tailored display">Tailored proposal</div><div class="u">After consultation</div></div>
+      <a class="e-row" href="ongoing-privacy-support.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>Ongoing Privacy Support</h3><p>Keep documents and advice current throughout the year.</p></div>
+        <div class="pr"><div class="from">From</div><div class="v display">£99</div><div class="u">/ month</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
     </div>
@@ -322,83 +321,16 @@ main p { text-wrap:pretty; }
     <div><h2>Ready to protect <em>your</em> business<span class="dot">?</span></h2>
       <p>Book a free consultation and we’ll recommend the most appropriate solution for your business.</p></div>
     <div class="e-btns">
-      <a href="contact.html" class="btn btn-gold">Contact Us</a>
-      <div class="small">Website Compliance Review from £199 + VAT</div>
+      <a href="contact.php" class="btn btn-gold">Contact Us</a>
+      <div class="small">Business Privacy Essentials from £695 + VAT</div>
     </div>
   </div>
 </section>
 </div>
-</main><div class="editorial"><footer class="e-footer">
-<div class="wrap e-footer-top">
-  <div class="e-footer-brand">
-    <a class="e-footer-logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/></a>
-    <div class="e-footer-tagline">Privacy. Governance. Growth.</div>
-    <p>Simple privacy advice for growing businesses. Practical support across data protection, privacy governance and responsible AI.</p>
-  </div>
-  <div class="e-footer-col">
-    <h4>Services</h4>
-    <a href="gdpr-health-check.php">GDPR Health Check</a>
-    <a href="business-privacy-essentials.html">Business Privacy Essentials</a>
-    <a href="website-privacy-review.html">Website Compliance Review</a>
-    <a href="employee-privacy-pack.html">Employee Privacy Pack</a>
-    <a href="ai-for-business-review.html">AI Governance</a>
-    <a href="ongoing-privacy-support.html">Ongoing Privacy Support</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Company</h4>
-    <a href="index.php">Home</a>
-    <a href="about.html">About</a>
-    <a href="insights.php">Insights</a>
-    <a href="case-studies.php">Case studies</a>
-    <a href="pricing.php">Pricing</a>
-    <a href="contact.html">Contact</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Speak with us</h4>
-    <a href="tel:+447778778153">07778 778153</a>
-    <a href="mailto:info@srlegalservices.co.uk">info@srlegalservices.co.uk</a>
-  </div>
-</div>
-
-<div class="wrap e-footer-company">
-  <div class="e-footer-company-head">
-    <div>
-      <span class="e-footer-company-kicker">Company information</span>
-      <strong>Copyright &copy; 2026 S.R Legal Services. All rights reserved.</strong>
-    </div>
-  </div>
-  <div class="e-footer-company-details">
-    <div class="e-footer-detail e-footer-detail-wide">
-      <span class="e-footer-detail-label">Trading name</span>
-      <p>S.R Legal Services is the trading name of S.R Consulting Services Limited, a company registered in England and Wales.</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Registered office</span>
-      <p>124 City Road, London, EC1V 2NX</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Company number</span>
-      <p>11276408</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">VAT number</span>
-      <p>436104131</p>
-    </div>
-  </div>
-</div>
-
-<div class="wrap e-footer-bottom">
-  <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
-  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by <span class="e-footer-credit-name">Techclues Ltd</span></a>
-  <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
-</div>
-</footer></div>
+</main><div class="editorial"><?php include __DIR__ . '/partials/footer.php'; ?></div>
 <script>
 document.documentElement.classList.add('js');
 document.addEventListener('DOMContentLoaded',()=>{
- const menuBtn=document.querySelector('[data-menu-button]');
- const mobileMenu=document.querySelector('[data-mobile-menu]');
- if(menuBtn&&mobileMenu){menuBtn.addEventListener('click',()=>{const open=mobileMenu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',open?'true':'false')})}
  const headerEl=document.querySelector('.header'); if(headerEl){const setScrolled=()=>headerEl.classList.toggle('scrolled',window.scrollY>10); setScrolled(); window.addEventListener('scroll',setScrolled,{passive:true});}
  const targets=document.querySelectorAll('main section,.service-card,.benefit-card,.info-card,.plan,.glance,.legal-content,.service-related-card,.service-outcome-panel');
  targets.forEach(el=>el.classList.add('reveal'));
@@ -415,4 +347,4 @@ document.addEventListener('DOMContentLoaded',()=>{
    });
  });
 });
-</script><script src="assets/js/cookie-consent.js?v=32" defer></script></body></html>
+</script></body></html>

@@ -19,7 +19,7 @@
     <p>Fixed fees agreed in writing before any work begins, so you know the scope, the deliverables, the timescale and the cost. No hourly billing, no surprises on the invoice.</p>
     <div class="service-hero-actions">
       <a href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank" class="button button-gold"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a>
-      <a href="contact.html" class="button button-light"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg><span>Contact Us</span></a>
+      <a href="contact.php" class="button button-light"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewBox="0 0 24 24"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg><span>Contact Us</span></a>
     </div>
     <div class="service-hero-facts">
       <div><span>Starting from</span><strong>&pound;199 + VAT</strong></div>
@@ -49,31 +49,31 @@
 
     <div class="e-index">
       <a class="e-row rise" href="gdpr-health-check.php">
-        <div class="n display">01</div>
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>GDPR Health Check</h3><p>A practical review of your current privacy arrangements with clear priorities and recommendations.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;199</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d1" href="business-privacy-essentials.html">
-        <div class="n display">02</div>
+      <a class="e-row rise d1" href="business-privacy-essentials.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Business Privacy Essentials</h3><p>Essential privacy documents, policies and practical guidance tailored to your business.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;695</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d2" href="website-privacy-review.html">
-        <div class="n display">03</div>
+      <a class="e-row rise d2" href="website-privacy-review.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Website Compliance Review</h3><p>Review of privacy notices, cookies, forms and online personal-data collection.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;199</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d3" href="employee-privacy-pack.html">
-        <div class="n display">04</div>
+      <a class="e-row rise d3" href="employee-privacy-pack.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>Employee Privacy Pack</h3><p>Practical documents and guidance for protecting employee and workplace information.</p></div>
         <div class="pr"><div class="from">From</div><div class="v display">&pound;295</div><div class="u">+ VAT</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
       </a>
-      <a class="e-row rise d4" href="ai-for-business-review.html">
-        <div class="n display">05</div>
+      <a class="e-row rise d4" href="ai-for-business-review.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
         <div class="m"><h3>AI Governance</h3><p>Practical policies, risk assessments and oversight to support responsible AI adoption.</p></div>
         <div class="pr"><div class="from">Pricing</div><div class="tailored display">Tailored proposal</div><div class="u">After consultation</div></div>
         <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
@@ -167,10 +167,10 @@
       <p class="rise d2" style="margin-top:15px;">A five-person practice and a forty-person firm need different amounts of work. Four things move the fee &mdash; we'll tell you where you sit on each during the free consultation.</p>
     </div>
     <div class="e-grid4">
-      <div class="it slide-left"><div class="n display">01</div><h4>Number of employees</h4><p>More people means more employee data, more systems and more access to review.</p></div>
-      <div class="it slide-right d1"><div class="n display">02</div><h4>Data processing activities</h4><p>What you collect, why, and how many separate purposes are involved.</p></div>
-      <div class="it slide-left d2"><div class="n display">03</div><h4>Locations</h4><p>Multiple sites or overseas operations add transfer and consistency considerations.</p></div>
-      <div class="it slide-right d3"><div class="n display">04</div><h4>Systems in use</h4><p>The number of platforms holding personal data, and how they connect.</p></div>
+      <div class="it slide-left"><h4>Number of employees</h4><p>More people means more employee data, more systems and more access to review.</p></div>
+      <div class="it slide-right d1"><h4>Data processing activities</h4><p>What you collect, why, and how many separate purposes are involved.</p></div>
+      <div class="it slide-left d2"><h4>Locations</h4><p>Multiple sites or overseas operations add transfer and consistency considerations.</p></div>
+      <div class="it slide-right d3"><h4>Systems in use</h4><p>The number of platforms holding personal data, and how they connect.</p></div>
     </div>
   </div>
 </section>

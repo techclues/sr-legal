@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Is Your Website GDPR Compliant? 7 Things Every Business Should Check | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#071f46" name="theme-color"/><meta content="Your website may collect more personal information than you realise. From contact forms and cookies to analytics and third-party tools, there are seven key" name="description"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Playfair+Display:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/><style>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Employee Privacy Pack | S.R Legal Services</title><link href="assets/images/favicon.ico" rel="icon" sizes="any"/><link href="assets/images/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/><link href="assets/images/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/><link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><meta content="#071f46" name="theme-color"/><meta content="Protect employee information with practical documents and guidance for workplace data." name="description"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Playfair+Display:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/><style>
 :root{--navy:#071f46;--royal:#0047AB;--emerald:#0F6B5B;--gold:#C8A34D;--warm:#FAF9F7;--soft:#F2F5F8;--ink:#2E3238;--muted:#667085;--line:#D8DDE3;--white:#fff;--shadow:0 24px 70px rgba(7,31,70,.13);--shadow-sm:0 12px 36px rgba(7,31,70,.09);--radius:26px}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--warm);color:var(--ink);font-family:Inter,Arial,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}img{display:block;max-width:100%}a{text-decoration:none;color:inherit}button,input,select,textarea{font:inherit}h1,h2,h3,h4{font-family:"Playfair Display",Georgia,serif;color:var(--navy);line-height:1.09;margin:0}h1{font-size:clamp(2.65rem,5.2vw,5rem);letter-spacing:-.04em}h2{font-size:clamp(2rem,3.1vw,3.2rem);letter-spacing:-.03em}h3{font-size:1.45rem}p{margin:0 0 1rem}.container{width:min(1200px,calc(100% - 44px));margin-inline:auto}.icon{width:20px;height:20px;flex:0 0 20px}.skip-link{position:absolute;left:-9999px}.skip-link:focus{left:12px;top:12px;background:#fff;padding:10px 14px;z-index:9999}.topbar{background:linear-gradient(90deg,#061937,#0b326b);color:#fff;font-size:.82rem}.topbar-inner{min-height:40px;display:flex;align-items:center;justify-content:space-between;gap:20px}.topbar-links{display:flex;align-items:center;gap:20px}.topbar a{display:inline-flex;align-items:center;gap:7px;color:#fff}.topbar .icon{width:15px;height:15px}.header{position:sticky;top:0;z-index:90;background:rgba(250,249,247,.95);backdrop-filter:blur(18px);border-bottom:1px solid rgba(7,31,70,.08);box-shadow:0 7px 30px rgba(7,31,70,.04)}.header::after{content:"";display:block;height:2px;background:linear-gradient(90deg,var(--royal),var(--emerald),var(--gold))}.nav{height:92px;display:flex;align-items:center;justify-content:space-between;gap:28px}.logo{display:inline-flex;align-items:center}.logo img{height:66px;width:auto}.nav-links{display:flex;align-items:center;gap:28px;font-weight:700;font-size:.92rem}.nav-links>a,.nav-trigger{position:relative;padding:34px 0;color:#172842}.nav-links>a:not(.button)::after,.nav-trigger::after{content:"";position:absolute;left:50%;right:50%;bottom:23px;height:2px;background:var(--gold);transition:.25s}.nav-links>a.active::after,.nav-links>a:hover::after,.nav-dropdown.active>.nav-trigger::after,.nav-dropdown:hover>.nav-trigger::after{left:0;right:0}.nav-dropdown{position:relative}.nav-trigger{display:inline-flex;align-items:center;gap:6px}.nav-trigger svg{width:13px;height:13px}.dropdown-menu{position:absolute;left:50%;top:72px;transform:translate(-50%,10px);width:315px;background:#fff;border:1px solid rgba(7,31,70,.08);border-radius:20px;padding:10px;box-shadow:var(--shadow);opacity:0;visibility:hidden;transition:.22s}.nav-dropdown:hover .dropdown-menu,.nav-dropdown:focus-within .dropdown-menu{opacity:1;visibility:visible;transform:translate(-50%,0)}.dropdown-menu a{display:flex;gap:12px;align-items:flex-start;padding:12px;border-radius:14px;color:var(--navy)}.dropdown-menu a:hover,.dropdown-menu a.active{background:#eef4fb;color:var(--royal)}.dropdown-menu .icon{margin-top:2px}.dropdown-menu strong{display:block;font-family:"Playfair Display",Georgia,serif;font-size:1rem}.dropdown-menu span{display:block;color:var(--muted);font-weight:500;font-size:.76rem;line-height:1.4;margin-top:2px}.button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:14px 23px;border-radius:999px;font-weight:800;border:1px solid transparent;transition:.25s ease;line-height:1.1;text-align:center}.button:hover{transform:translateY(-3px);box-shadow:0 16px 34px rgba(7,31,70,.16)}.button-primary{background:var(--royal);color:#fff;box-shadow:0 12px 28px rgba(0,71,171,.22)}.button-gold{background:linear-gradient(135deg,#d7b65f,#c19736);color:#142039;box-shadow:0 12px 28px rgba(200,163,77,.25)}.button-outline{background:#fff;color:var(--royal);border-color:rgba(0,71,171,.23)}.button-light{background:#fff;color:var(--navy)}.button-emerald{background:var(--emerald);color:#fff}.button-sm{min-height:44px;padding:11px 17px;font-size:.86rem}.nav-cta{min-height:50px!important;box-shadow:0 12px 30px rgba(200,163,77,.32)!important}.menu-button{display:none;background:transparent;border:0;padding:8px;cursor:pointer}.menu-button span{display:block;width:28px;height:2px;background:var(--navy);margin:6px 0;border-radius:4px}.mobile-menu{display:none;background:#fff;border-top:1px solid var(--line);padding:8px 22px 22px}.mobile-menu.open{display:grid}.mobile-menu>a{padding:12px 0;font-weight:700}.mobile-services summary{padding:12px 0;font-weight:700;cursor:pointer;color:var(--navy)}.mobile-services div{display:grid;padding:0 0 8px 15px}.mobile-services a{padding:8px 0;color:var(--muted)}.kicker{display:inline-flex;align-items:center;gap:8px;color:var(--emerald);font-weight:800;font-size:.74rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px}.kicker::before{content:"";width:30px;height:2px;background:var(--gold)}.kicker-light{color:#f2dfaa}.hero{position:relative;min-height:610px;display:flex;align-items:center;overflow:hidden;background:#071f46}.hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,14,31,.94),rgba(4,21,45,.72) 53%,rgba(4,18,39,.25))}.hero-content{position:relative;z-index:2;color:#fff;padding:90px 0}.hero-copy{max-width:760px}.hero h1,.hero h2{color:#fff}.hero p{max-width:650px;color:rgba(255,255,255,.88);font-size:1.08rem;margin-top:20px}.hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px}.trust-bar{background:#fff;border-bottom:1px solid var(--line)}.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:18px 0}.trust-item{display:flex;align-items:center;justify-content:center;gap:9px;color:var(--navy);font-weight:700;font-size:.88rem}.trust-item .icon{color:var(--emerald)}.page-hero{position:relative;min-height:390px;display:flex;align-items:center;overflow:hidden;background:#071f46}.page-hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.page-hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,14,31,.94),rgba(4,21,45,.58))}.page-hero-content{position:relative;z-index:2;color:#fff;padding:75px 0}.page-hero h1{color:#fff;max-width:900px}.page-hero p{max-width:720px;color:rgba(255,255,255,.87);font-size:1.07rem;margin-top:18px}.section{padding:92px 0}.section-soft{background:linear-gradient(180deg,#f5f7f9,#eef2f5)}.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:34px;margin-bottom:38px}.section-head>div{max-width:800px}.section-head>p{max-width:470px;color:var(--muted);margin:0}.intro-grid,.about-grid,.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:58px;align-items:center}.intro-copy>p,.about-copy>p{color:var(--muted);font-size:1.04rem}.image-card{border-radius:30px;overflow:hidden;box-shadow:var(--shadow);position:relative}.image-card img{width:100%;height:480px;object-fit:cover}.benefit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.benefit-card,.info-card{background:#fff;padding:27px;border-radius:23px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm)}.benefit-card .icon,.info-card .icon{width:30px;height:30px;color:var(--royal);margin-bottom:14px}.benefit-card h3,.info-card h3{margin-bottom:8px}.benefit-card p,.info-card p{color:var(--muted);margin:0}.service-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.service-card{background:#fff;border-radius:25px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm);overflow:hidden;transition:.3s;display:flex;flex-direction:column}.service-card:hover{transform:translateY(-8px);box-shadow:var(--shadow)}.service-image{height:210px;position:relative;overflow:hidden}.service-image img{width:100%;height:100%;object-fit:cover;transition:.55s}.service-card:hover .service-image img{transform:scale(1.06)}.service-image::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(7,31,70,.62))}.service-badge{position:absolute;left:18px;bottom:16px;z-index:2;background:#fff;color:var(--royal);width:48px;height:48px;border-radius:15px;display:grid;place-items:center;box-shadow:0 10px 26px rgba(7,31,70,.2)}.service-badge .icon{width:24px;height:24px}.popular{position:absolute;right:14px;top:14px;z-index:2;background:var(--gold);color:#142039;border-radius:999px;padding:7px 11px;font-size:.7rem;font-weight:800}.service-body{padding:25px;display:flex;flex-direction:column;flex:1}.service-body h3{margin-bottom:9px}.service-body p{color:var(--muted)}.service-price{color:var(--emerald);font-weight:800;margin-top:auto;padding-top:10px}.service-link{display:inline-flex;align-items:center;gap:8px;color:var(--royal);font-weight:800;margin-top:14px}.cta-panel{background:linear-gradient(130deg,#071f46,#0d477d);border-radius:30px;padding:45px;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:28px;box-shadow:var(--shadow)}.cta-panel h2,.cta-panel p{color:#fff}.cta-panel p{color:rgba(255,255,255,.84);max-width:700px}.cta-actions{display:flex;gap:12px;flex-wrap:wrap;flex:0 0 auto}.about-founder{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}.founder-photo{border-radius:30px;overflow:hidden;box-shadow:var(--shadow);position:relative}.founder-photo img{width:100%;height:610px;object-fit:cover;object-position:center 18%}.experience-card{position:absolute;left:22px;right:22px;bottom:22px;background:rgba(7,31,70,.92);backdrop-filter:blur(8px);color:#fff;padding:18px 20px;border-radius:18px}.experience-card strong{display:block;font-family:"Playfair Display",Georgia,serif;font-size:1.35rem}.experience-card span{font-size:.9rem;color:rgba(255,255,255,.82)}.check-list{list-style:none;padding:0;margin:22px 0;display:grid;gap:11px}.check-list li{display:flex;gap:10px;align-items:flex-start}.check-list .icon{color:var(--emerald);margin-top:3px}.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.plan{position:relative;background:#fff;border-radius:24px;padding:30px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm);display:flex;flex-direction:column}.plan.featured{background:linear-gradient(155deg,#052a63,#0047ab);color:#fff;transform:scale(1.025)}.plan h3{font-size:2rem;margin-bottom:10px}.plan h3 small{font-family:Inter;font-size:.82rem;color:var(--muted)}.plan.featured h3,.plan.featured p,.plan.featured li,.plan.featured small,.plan.featured .plan-label{color:#fff}.plan-label{display:block;color:var(--emerald);font-size:.74rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px}.plan ul{padding-left:20px;color:var(--muted)}.plan-meta{margin-top:auto;padding-top:18px;border-top:1px solid var(--line);font-size:.88rem}.plan.featured .plan-meta{border-color:rgba(255,255,255,.2)}.plan-badge{position:absolute;top:18px;right:18px;background:var(--gold);color:#142039;padding:6px 11px;border-radius:999px;font-size:.7rem;font-weight:800}.price-table{overflow:auto;background:#fff;border-radius:24px;box-shadow:var(--shadow-sm);border:1px solid rgba(7,31,70,.07)}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:18px 20px;border-bottom:1px solid var(--line)}th{background:#eef4fb;color:var(--navy);font-family:"Playfair Display",Georgia,serif;font-size:1.05rem}tr:last-child td{border-bottom:0}.service-layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:38px;align-items:start}.service-main{min-width:0}.service-main h2{margin:38px 0 14px}.service-main h3{margin:28px 0 10px}.service-main p{color:#536071}.service-main ul{padding-left:22px}.service-main li{margin:8px 0}.glance{position:sticky;top:125px;background:linear-gradient(155deg,#071f46,#0f6b5b);color:#fff;border-radius:25px;padding:26px;box-shadow:var(--shadow)}.glance h2{color:#fff;font-size:1.65rem;margin-bottom:18px}.glance-row{padding:13px 0;border-top:1px solid rgba(255,255,255,.15)}.glance-row:first-of-type{border-top:0}.glance-row span{display:block;color:#f2d98e;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em}.glance-row strong{display:block;margin-top:4px}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin-top:18px}.step{background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px}.step strong{display:block;color:var(--gold);font-family:"Playfair Display",Georgia,serif;font-size:1.6rem}.faq{display:grid;gap:12px}.faq details{background:#fff;border:1px solid var(--line);border-radius:17px;padding:16px 19px}.faq summary{cursor:pointer;font-weight:800;color:var(--navy)}.faq p{margin:12px 0 0}.legal-layout{display:grid;grid-template-columns:260px minmax(0,1fr);gap:38px;align-items:start}.legal-toc{position:sticky;top:125px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:var(--shadow-sm)}.legal-toc strong{font-family:"Playfair Display",Georgia,serif;color:var(--navy);font-size:1.15rem}.legal-toc nav{display:grid;margin-top:12px}.legal-toc a{padding:8px 0;color:var(--muted);font-size:.88rem}.legal-toc a:hover{color:var(--royal)}.legal-content{background:#fff;border:1px solid rgba(7,31,70,.07);border-radius:26px;padding:38px;box-shadow:var(--shadow-sm)}.legal-content h2{font-size:2rem;margin:36px 0 12px;scroll-margin-top:125px}.legal-content h2:first-child{margin-top:0}.legal-content h3{font-size:1.3rem;margin:26px 0 8px}.legal-content p,.legal-content li{color:#536071}.legal-content ul{padding-left:22px}.notice{background:#edf5fb;border-left:4px solid var(--royal);padding:17px 19px;border-radius:0 15px 15px 0;margin:20px 0;color:#334155}.contact-card{background:#fff;border-radius:26px;padding:30px;border:1px solid rgba(7,31,70,.07);box-shadow:var(--shadow-sm)}.form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:17px}.field{display:grid;gap:7px}.field.full{grid-column:1/-1}.field label{font-weight:800;color:var(--navy)}.field input,.field textarea,.field select{width:100%;border:1px solid var(--line);background:#fff;border-radius:14px;padding:13px 15px;color:var(--ink)}.field textarea{min-height:145px;resize:vertical}.footer{background:#07162f;color:#d6deeb;margin-top:80px;padding-top:54px}.footer-grid{display:grid;grid-template-columns:1.25fr .7fr .75fr 1fr;gap:30px}.footer-logo img{height:64px;filter:brightness(1.2)}.footer p{color:#b8c4d7}.footer h3{color:#fff;font-size:1.12rem;margin-bottom:12px}.footer-links{display:grid;gap:9px}.footer a:hover{color:#fff}.footer-contact{display:grid;gap:9px}.footer-contact a{display:inline-flex;align-items:center;gap:8px}.footer-legal{margin-top:35px;padding:25px 0;border-top:1px solid rgba(255,255,255,.1);font-size:.83rem;color:#b8c4d7;display:grid;gap:5px}.footer-legal a{color:#f2d98e}.footer-bottom{padding:18px 0;border-top:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;gap:18px;font-size:.82rem;color:#98a8bf}.reveal{opacity:0;transform:translateY(25px);transition:opacity .7s ease,transform .7s ease}.reveal.visible{opacity:1;transform:none}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.reveal{opacity:1!important;transform:none!important;transition:none!important}}
 @media(max-width:1040px){.nav-links>a:not(.button),.nav-dropdown{display:none}.menu-button{display:block}.benefit-grid,.service-grid,.plans{grid-template-columns:repeat(2,1fr)}.intro-grid,.about-grid,.contact-grid,.about-founder,.service-layout,.legal-layout{grid-template-columns:1fr}.glance,.legal-toc{position:relative;top:auto}.legal-toc nav{grid-template-columns:repeat(2,1fr);gap:0 18px}.steps{grid-template-columns:repeat(2,1fr)}.footer-grid{grid-template-columns:repeat(2,1fr)}}
@@ -72,23 +72,10 @@
 @media(max-width:760px){.footer-contact .footer-cta{width:100%!important;}}
 
 
-/* V15 About approach cards */
-.approach-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;max-width:1060px}
-.approach-card{position:relative;overflow:hidden;min-height:245px;padding:30px;border-radius:26px;border:1px solid rgba(7,31,70,.08);box-shadow:0 18px 45px rgba(7,31,70,.09);background:linear-gradient(145deg,#fff,#f6f9fc);display:grid;grid-template-columns:62px 1fr;gap:20px;align-items:start;transition:transform .3s ease,box-shadow .3s ease}
-.approach-card::before{content:"";position:absolute;inset:0 0 auto 0;height:5px;background:var(--card-accent,var(--gold))}
-.approach-card::after{content:"";position:absolute;width:190px;height:190px;border-radius:50%;right:-95px;bottom:-105px;background:var(--card-glow,rgba(0,71,171,.07));pointer-events:none}
-.approach-card:hover{transform:translateY(-6px);box-shadow:0 26px 58px rgba(7,31,70,.14)}
-.approach-card:nth-child(1){--card-accent:#c8a34d;--card-glow:rgba(200,163,77,.12)}
-.approach-card:nth-child(2){--card-accent:#0f6b5b;--card-glow:rgba(15,107,91,.10)}
-.approach-card:nth-child(3){--card-accent:#0047ab;--card-glow:rgba(0,71,171,.10)}
-.approach-card:nth-child(4){--card-accent:#173e73;--card-glow:rgba(23,62,115,.10)}
-.approach-icon{position:relative;z-index:1;width:58px;height:58px;border-radius:18px;display:grid;place-items:center;background:#fff;color:var(--royal);box-shadow:0 12px 28px rgba(7,31,70,.10);border:1px solid rgba(7,31,70,.06)}
-.approach-icon .icon{width:27px;height:27px}
-.approach-copy{position:relative;z-index:1}
-.approach-number{display:block;color:var(--gold);font-size:.75rem;font-weight:900;letter-spacing:.14em;margin-bottom:13px}
-.approach-card h3{font-size:1.48rem;margin-bottom:9px}
-.approach-card p{color:var(--muted);margin:0;max-width:390px}
-@media(max-width:760px){.approach-grid{grid-template-columns:1fr}.approach-card{min-height:auto;padding:25px;grid-template-columns:54px 1fr}.approach-icon{width:52px;height:52px}}
+/* V16 — enhanced individual service pages */
+.service-page-hero{min-height:560px}.service-page-hero .page-hero-overlay{background:linear-gradient(90deg,rgba(3,14,31,.96),rgba(4,21,45,.72) 55%,rgba(4,18,39,.25))}.service-page-hero .page-hero-content{padding:78px 0 65px}.service-breadcrumb{display:flex;align-items:center;gap:9px;flex-wrap:wrap;color:rgba(255,255,255,.7);font-size:.78rem;margin-bottom:27px}.service-breadcrumb strong{color:#f0d98f}.service-breadcrumb a:hover{color:#fff}.service-page-hero h1{max-width:850px}.service-page-hero p{font-size:1.12rem;max-width:710px}.service-hero-actions{display:flex;gap:13px;flex-wrap:wrap;margin-top:27px}.service-hero-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));max-width:880px;margin-top:34px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);border-radius:19px;backdrop-filter:blur(12px);overflow:hidden}.service-hero-facts div{padding:16px 20px;border-left:1px solid rgba(255,255,255,.14)}.service-hero-facts div:first-child{border-left:0}.service-hero-facts span{display:block;color:#f2d98e;font-size:.66rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase}.service-hero-facts strong{display:block;color:#fff;margin-top:4px;font-size:.94rem;line-height:1.42}.service-trust-strip{background:#fff;border-bottom:1px solid var(--line)}.service-trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:17px 0}.service-trust-item{display:flex;align-items:center;justify-content:center;gap:9px;color:var(--navy);font-size:.84rem;font-weight:800}.service-trust-item .icon{width:18px;height:18px;color:var(--emerald)}.service-layout{grid-template-columns:minmax(0,1fr) 360px;gap:48px}.service-main{position:relative}.service-main>h2{font-size:clamp(1.75rem,2.5vw,2.45rem);margin:45px 0 17px}.service-main>h2:first-of-type{margin-top:0}.service-main>p{font-size:1.04rem;max-width:820px}.service-main>ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:21px 0 34px}.service-main>ul li{position:relative;margin:0;background:#fff;border:1px solid rgba(7,31,70,.08);border-radius:17px;padding:17px 17px 17px 49px;box-shadow:0 9px 27px rgba(7,31,70,.055);color:#465468;min-height:76px;display:flex;align-items:center}.service-main>ul li::before{content:"✓";position:absolute;left:17px;top:18px;width:22px;height:22px;display:grid;place-items:center;border-radius:50%;background:#eaf5f1;color:var(--emerald);font-weight:900}.glance{top:120px;border-radius:29px;padding:30px;background:linear-gradient(150deg,#061d41,#0b4b6b 60%,#0f6b5b);overflow:hidden}.glance::before{content:"";position:absolute;right:-70px;top:-80px;width:220px;height:220px;border:1px solid rgba(200,163,77,.27);border-radius:50%}.glance>*{position:relative}.glance h2{font-size:1.78rem}.glance-row{padding:15px 0}.glance .button{width:100%;margin-top:7px}.steps{gap:17px;margin:24px 0 42px}.step{position:relative;padding:23px 21px;border-radius:20px;border-top:4px solid var(--gold);box-shadow:var(--shadow-sm);min-height:150px}.step strong{font-size:2rem}.step p{margin:5px 0 0;color:#586579}.faq details{border:1px solid rgba(7,31,70,.08);padding:19px 21px;box-shadow:0 8px 25px rgba(7,31,70,.045)}.faq summary{font-family:"Playfair Display",Georgia,serif;font-size:1.11rem}.service-outcome-section{padding-top:12px}.service-outcome-panel{position:relative;min-height:490px;border-radius:31px;overflow:hidden;box-shadow:var(--shadow);background:#071f46}.service-outcome-panel::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,14,31,.95),rgba(4,21,45,.80) 54%,rgba(4,18,39,.18)),var(--outcome-image);background-size:cover;background-position:center}.service-outcome-copy{position:relative;z-index:1;max-width:710px;padding:60px;color:#fff}.service-outcome-copy h2,.service-outcome-copy p{color:#fff}.service-outcome-copy p{color:rgba(255,255,255,.82)}.service-outcome-list{list-style:none;padding:0;margin:25px 0 0;display:grid;grid-template-columns:repeat(2,1fr);gap:13px}.service-outcome-list li{display:flex;align-items:flex-start;gap:9px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.13);border-radius:14px;padding:13px 14px}.service-outcome-list .icon{color:#f2d98e;margin-top:2px}.service-related-section{background:linear-gradient(180deg,#f5f7f9,#eef2f5)}.service-related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}.service-related-card{position:relative;min-height:365px;border-radius:24px;overflow:hidden;box-shadow:var(--shadow-sm);transition:.3s}.service-related-card:hover{transform:translateY(-7px);box-shadow:var(--shadow)}.service-related-card img,.service-related-overlay{position:absolute;inset:0;width:100%;height:100%}.service-related-card img{object-fit:cover;transition:.5s}.service-related-card:hover img{transform:scale(1.06)}.service-related-overlay{background:linear-gradient(180deg,rgba(7,31,70,.08),rgba(7,31,70,.96) 73%)}.service-related-card>div{position:absolute;left:0;right:0;bottom:0;padding:25px;color:#fff}.service-related-card small{display:block;color:#f2d98e;text-transform:uppercase;letter-spacing:.12em;font-weight:800;font-size:.66rem;margin-bottom:7px}.service-related-card h3{color:#fff;font-size:1.42rem}.service-related-card p{color:rgba(255,255,255,.8);font-size:.9rem}.service-related-card strong{display:inline-flex;align-items:center;gap:8px;font-size:.85rem}.service-related-card strong .icon{width:17px;height:17px}.service-final-cta{position:relative;overflow:hidden}.service-final-cta::after{content:"";position:absolute;right:-90px;bottom:-130px;width:340px;height:340px;border:1px solid rgba(200,163,77,.28);border-radius:50%}.service-final-cta>*{position:relative;z-index:1}
+@media(max-width:1040px){.service-layout{grid-template-columns:1fr}.service-main>ul{grid-template-columns:1fr}.service-related-grid{grid-template-columns:repeat(2,1fr)}.service-trust-grid{grid-template-columns:repeat(2,1fr)}.service-trust-item{justify-content:flex-start}.glance{position:relative;top:auto}}
+@media(max-width:760px){.service-page-hero{min-height:640px}.service-page-hero .page-hero-content{padding:62px 0 50px}.service-hero-facts{grid-template-columns:1fr}.service-hero-facts div{border-left:0;border-top:1px solid rgba(255,255,255,.14)}.service-hero-facts div:first-child{border-top:0}.service-trust-grid,.service-related-grid,.service-outcome-list{grid-template-columns:1fr}.service-outcome-copy{padding:38px 24px}.service-outcome-panel{min-height:610px}.service-related-card{min-height:330px}}
 
 </style><style id="v12-refinements">
 /* Refined navigation */
@@ -134,25 +121,6 @@
 .footer-contact .footer-cta span{color:#10213d!important;}
 @media(max-width:760px){.footer-contact .footer-cta{width:100%!important;}}
 
-
-/* V15 About approach cards */
-.approach-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;max-width:1060px}
-.approach-card{position:relative;overflow:hidden;min-height:245px;padding:30px;border-radius:26px;border:1px solid rgba(7,31,70,.08);box-shadow:0 18px 45px rgba(7,31,70,.09);background:linear-gradient(145deg,#fff,#f6f9fc);display:grid;grid-template-columns:62px 1fr;gap:20px;align-items:start;transition:transform .3s ease,box-shadow .3s ease}
-.approach-card::before{content:"";position:absolute;inset:0 0 auto 0;height:5px;background:var(--card-accent,var(--gold))}
-.approach-card::after{content:"";position:absolute;width:190px;height:190px;border-radius:50%;right:-95px;bottom:-105px;background:var(--card-glow,rgba(0,71,171,.07));pointer-events:none}
-.approach-card:hover{transform:translateY(-6px);box-shadow:0 26px 58px rgba(7,31,70,.14)}
-.approach-card:nth-child(1){--card-accent:#c8a34d;--card-glow:rgba(200,163,77,.12)}
-.approach-card:nth-child(2){--card-accent:#0f6b5b;--card-glow:rgba(15,107,91,.10)}
-.approach-card:nth-child(3){--card-accent:#0047ab;--card-glow:rgba(0,71,171,.10)}
-.approach-card:nth-child(4){--card-accent:#173e73;--card-glow:rgba(23,62,115,.10)}
-.approach-icon{position:relative;z-index:1;width:58px;height:58px;border-radius:18px;display:grid;place-items:center;background:#fff;color:var(--royal);box-shadow:0 12px 28px rgba(7,31,70,.10);border:1px solid rgba(7,31,70,.06)}
-.approach-icon .icon{width:27px;height:27px}
-.approach-copy{position:relative;z-index:1}
-.approach-number{display:block;color:var(--gold);font-size:.75rem;font-weight:900;letter-spacing:.14em;margin-bottom:13px}
-.approach-card h3{font-size:1.48rem;margin-bottom:9px}
-.approach-card p{color:var(--muted);margin:0;max-width:390px}
-@media(max-width:760px){.approach-grid{grid-template-columns:1fr}.approach-card{min-height:auto;padding:25px;grid-template-columns:54px 1fr}.approach-icon{width:52px;height:52px}}
-
 </style><style id="v23-common-refinements">
 /* V23: logo lockup, 30-minute consultation, founder and AI governance refinements */
 .logo{display:grid!important;justify-items:center;gap:2px;line-height:1}
@@ -162,74 +130,6 @@
 .footer-logo-tagline{display:block;color:#0f6b5b;font-size:.64rem;font-weight:900;letter-spacing:.14em;line-height:1.2;text-transform:uppercase;white-space:nowrap}
 .nav-cta{white-space:nowrap}
 @media(max-width:760px){.logo-tagline{font-size:.5rem;letter-spacing:.09em}.footer-logo-tagline{font-size:.58rem}.nav-cta{white-space:normal}}
-</style><style id="v24-refinements">
-/* V24: slider controls, founder cards and shared About-page founder section */
-.hero-slider-controls{
-  left:auto!important;
-  right:max(22px,calc((100vw - 1200px)/2))!important;
-  transform:none!important;
-  bottom:24px!important;
-  padding:7px 9px;
-  border:1px solid rgba(255,255,255,.18);
-  border-radius:999px;
-  background:rgba(4,18,39,.38);
-  box-shadow:0 12px 30px rgba(0,0,0,.18);
-  backdrop-filter:blur(12px);
-}
-.hero-slider-arrow{width:40px!important;height:40px!important;background:rgba(7,31,70,.78)!important}
-.hero-slider-dots{padding-inline:2px}
-
-.founder-v23-section{background:linear-gradient(180deg,#fff 0%,#fbfcfe 100%);position:relative;overflow:hidden}
-.founder-v23-section::before{content:"";position:absolute;width:470px;height:470px;border-radius:50%;right:-210px;top:-180px;background:radial-gradient(circle,rgba(200,163,77,.19),rgba(200,163,77,0) 70%);pointer-events:none}
-.founder-v23-section::after{content:"";position:absolute;width:420px;height:420px;border-radius:50%;left:-250px;bottom:-260px;background:radial-gradient(circle,rgba(0,71,171,.09),rgba(0,71,171,0) 70%);pointer-events:none}
-.founder-v23-grid{display:grid;grid-template-columns:.88fr 1.12fr;gap:64px;align-items:center;position:relative;z-index:1}
-.founder-v23-photo{position:relative;border-radius:30px;overflow:hidden;box-shadow:0 28px 75px rgba(7,31,70,.2);min-height:610px;background:#071f46;border:1px solid rgba(7,31,70,.08)}
-.founder-v23-photo img{width:100%;height:610px;object-fit:cover;object-position:center 16%}
-.founder-v23-photo::after{content:"";position:absolute;inset:34% 0 0;background:linear-gradient(180deg,transparent,rgba(3,15,34,.94))}
-.founder-v23-caption{position:absolute;left:28px;right:28px;bottom:26px;z-index:2;color:#fff}
-.founder-v23-caption strong{display:block;color:#fff;font-family:"Playfair Display",Georgia,serif;font-size:1.75rem}
-.founder-v23-caption span{display:block;color:rgba(255,255,255,.82);font-size:.93rem;margin-top:4px}
-.founder-v23-copy h2{max-width:760px;margin-bottom:24px}
-.founder-v23-copy>p{color:#536071;font-size:1.04rem}
-.founder-v23-checks{list-style:none;padding:0;margin:26px 0 30px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
-.founder-v23-checks li{display:flex;align-items:center;gap:11px;padding:15px 16px;border-radius:17px;background:linear-gradient(145deg,#fff,#f3f6fa);border:1px solid rgba(7,31,70,.09);color:#20314a;font-weight:780;box-shadow:0 10px 24px rgba(7,31,70,.055);min-height:58px}
-.founder-v23-checks svg{width:31px;height:31px;flex:0 0 31px;color:#0f6b5b;padding:7px;border-radius:10px;background:#e9f5f2;border:1px solid rgba(15,107,91,.12);margin-top:0}
-
-.founder-v23-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;margin-top:48px;position:relative;z-index:1}
-.founder-v23-stat{position:relative;overflow:hidden;background:linear-gradient(155deg,#fff 0%,#f3f7fc 100%);border:1px solid rgba(7,31,70,.1);border-radius:24px;padding:22px 22px 24px;box-shadow:0 18px 45px rgba(7,31,70,.09);min-height:225px;display:flex;flex-direction:column;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}
-.founder-v23-stat::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:linear-gradient(90deg,#c8a34d,#0f6b5b,#0047ab)}
-.founder-v23-stat::after{content:"";position:absolute;width:140px;height:140px;border-radius:50%;right:-75px;bottom:-85px;background:radial-gradient(circle,rgba(0,71,171,.11),rgba(0,71,171,0) 72%)}
-.founder-v23-stat:hover{transform:translateY(-7px);box-shadow:0 26px 58px rgba(7,31,70,.14);border-color:rgba(0,71,171,.2)}
-.founder-stat-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:24px}
-.founder-stat-icon{width:48px;height:48px;border-radius:15px;display:grid;place-items:center;color:#0047ab;background:linear-gradient(145deg,#eef5ff,#fff);border:1px solid rgba(0,71,171,.11);box-shadow:0 10px 24px rgba(0,71,171,.09)}
-.founder-stat-icon svg{width:24px;height:24px}
-.founder-stat-index{font-size:.7rem;font-weight:900;letter-spacing:.14em;color:#9aa6b8}
-.founder-v23-stat strong{position:relative;z-index:1;color:#0047ab;font-family:"Playfair Display",Georgia,serif;font-size:clamp(2rem,2.6vw,3rem);line-height:1;margin-bottom:10px}
-.founder-v23-stat>span{position:relative;z-index:1;color:#20314a;font-size:.94rem;font-weight:850;line-height:1.35}
-.founder-v23-stat small{position:relative;z-index:1;color:#6b7788;font-size:.78rem;line-height:1.5;margin-top:10px}
-.founder-v23-stat--text strong{font-size:clamp(1.55rem,2vw,2.15rem);line-height:1.08;max-width:210px}
-
-@media(max-width:1040px){
-  .founder-v23-grid{grid-template-columns:1fr}
-  .founder-v23-photo{min-height:560px}
-  .founder-v23-photo img{height:560px}
-  .founder-v23-stats{grid-template-columns:repeat(2,1fr)}
-}
-@media(max-width:760px){
-  .hero-slider-controls{right:18px!important;bottom:18px!important}
-  .hero-slide-content{padding-bottom:126px!important}
-  .founder-v23-grid{gap:38px}
-  .founder-v23-photo{min-height:480px}
-  .founder-v23-photo img{height:480px}
-  .founder-v23-checks,.founder-v23-stats{grid-template-columns:1fr}
-  .founder-v23-stat{min-height:auto}
-  .founder-v23-section .button{width:100%}
-}
-@media(max-width:520px){
-  .hero-slider,.hero-slide-content{height:700px!important;min-height:700px!important}
-  .hero-slider-controls{right:14px!important;bottom:14px!important}
-  .hero-slider-arrow{width:38px!important;height:38px!important}
-}
 </style>
 <style id="v25-spacing-refinement">
 /* V25 spacing and content refinement */
@@ -253,6 +153,7 @@
   .hero-copy,.page-hero-copy,.intro-copy,.about-copy,.founder-copy,.contact-copy,.service-overview-copy,.service-summary-copy,.detail-copy,.page-copy{gap:14px;}
 }
 </style>
+
 <style id="v27-heading-spacing">
 /* V27: consistent breathing room between headings and descriptive copy */
 main h1 + p,
@@ -299,155 +200,150 @@ main p { text-wrap:pretty; }
   .experience-v23-intro h2 + p { margin-top:14px !important; }
 }
 </style>
-<style id="v27-counter-style">
-.js-counter{font-variant-numeric:tabular-nums;display:inline-block;min-width:1.6ch}
-</style>
-<link rel="stylesheet" href="assets/css/cookie-consent.css"/>
-<style id="v36-insights">
-.insight-hero{padding:58px 0 28px;background:linear-gradient(180deg,#fff,#f7f9fb)}
-.insight-breadcrumb{display:flex;align-items:center;gap:9px;flex-wrap:wrap;color:#7a8494;font-size:.82rem;margin-bottom:30px}.insight-breadcrumb a:hover{color:var(--royal)}
-.insight-kicker{display:inline-flex;align-items:center;gap:9px;color:#8f6a1b;font-size:.73rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin-bottom:14px}.insight-kicker::before{content:"";width:26px;height:2px;background:var(--gold)}
-.insight-title{max-width:900px;font-size:clamp(2.5rem,4.8vw,4.5rem)}
-.insight-meta{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-top:25px;padding-top:22px;border-top:1px solid rgba(7,31,70,.09)}
-.insight-author{display:flex;align-items:center;gap:12px}.insight-author img{width:48px;height:48px;border-radius:50%;object-fit:cover;object-position:center top}.insight-author strong{display:block;color:var(--navy);font-family:"Playfair Display",Georgia,serif}.insight-author span,.insight-read{color:var(--muted);font-size:.85rem}
-.insight-wrap{width:min(920px,calc(100% - 44px));margin-inline:auto}.insight-cover{margin:12px auto 42px;border-radius:26px;overflow:hidden;box-shadow:0 20px 55px rgba(7,31,70,.12)}.insight-cover img{width:100%;height:auto;aspect-ratio:16/8.4;object-fit:cover}
-.insight-article{font-size:1.03rem;color:#414956}.insight-article>.lead{font-size:1.1rem;color:#4e5968;margin-bottom:32px}.insight-article h2{font-size:clamp(1.55rem,2.3vw,2rem);margin:34px 0 12px}.insight-article p{margin-bottom:18px}.insight-summary{margin:34px 0;padding:24px 26px;border-left:4px solid var(--gold);background:#f7f8fa;border-radius:0 18px 18px 0}.insight-summary h2{margin:0 0 10px}.insight-summary p{margin:0}
-.insight-service{margin:46px 0;padding:30px;border:1px solid rgba(7,31,70,.08);background:linear-gradient(145deg,#fbfcff,#f3f6fa);border-radius:22px;display:flex;align-items:center;justify-content:space-between;gap:24px}.insight-service small{display:block;color:#8f6a1b;font-weight:800;letter-spacing:.12em;text-transform:uppercase;margin-bottom:5px}.insight-service h2{margin:0 0 7px;font-size:1.5rem}.insight-service p{margin:0;color:var(--muted)}.insight-service-actions{display:flex;gap:10px;flex-wrap:wrap;flex:0 0 auto}
-.related-insights{padding:76px 0;background:#f4f6f8}.related-insights-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.related-insight-card{display:grid;grid-template-columns:155px 1fr;overflow:hidden;background:#fff;border:1px solid rgba(7,31,70,.08);border-radius:20px;box-shadow:0 12px 30px rgba(7,31,70,.07);transition:.25s}.related-insight-card:hover{transform:translateY(-4px);box-shadow:0 18px 38px rgba(7,31,70,.11)}.related-insight-card img{width:100%;height:100%;min-height:150px;object-fit:cover}.related-insight-copy{padding:20px}.related-insight-copy small{color:var(--emerald);font-weight:800;text-transform:uppercase;letter-spacing:.09em}.related-insight-copy h3{font-size:1.22rem;margin:7px 0 10px}.related-insight-copy span{color:var(--royal);font-weight:800;font-size:.88rem}
-.insight-bottom-cta{padding:0 0 82px;background:#f4f6f8}.insight-bottom-panel{background:linear-gradient(110deg,#071f46,#0b3c75);border-radius:24px;padding:27px 30px;color:#fff;display:flex;align-items:center;justify-content:space-between;gap:24px}.insight-bottom-panel h2{color:#fff;font-size:1.35rem;margin:0 0 5px}.insight-bottom-panel p{margin:0;color:rgba(255,255,255,.8)}
-.insights-index-hero{padding:72px 0 42px;background:linear-gradient(180deg,#fff,#f4f7fa)}.insights-index-hero p{max-width:690px;color:var(--muted);font-size:1.08rem;margin-top:18px}.insights-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.insights-card{overflow:hidden;background:#fff;border:1px solid rgba(7,31,70,.08);border-radius:24px;box-shadow:0 14px 34px rgba(7,31,70,.08);transition:.25s}.insights-card:hover{transform:translateY(-5px);box-shadow:0 20px 42px rgba(7,31,70,.12)}.insights-card img{width:100%;height:190px;object-fit:cover}.insights-card-body{padding:22px}.insights-card small{color:var(--emerald);font-weight:800;text-transform:uppercase;letter-spacing:.09em}.insights-card h2{font-size:1.42rem;margin:8px 0 10px}.insights-card p{color:var(--muted);font-size:.92rem}.insights-card strong{display:inline-flex;margin-top:7px;color:var(--royal)}
-@media(max-width:980px){.insights-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.related-insights-grid{grid-template-columns:1fr}}
-@media(max-width:760px){.insight-hero{padding:38px 0 18px}.insight-title{font-size:2.45rem}.insight-wrap{width:min(100% - 32px,920px)}.insight-cover{margin-bottom:30px;border-radius:20px}.insight-cover img{aspect-ratio:16/10}.insight-service{align-items:flex-start;flex-direction:column;padding:24px 20px}.insight-service-actions{width:100%}.insight-service-actions .button{width:100%}.related-insight-card{grid-template-columns:110px 1fr}.related-insight-copy{padding:16px}.related-insight-copy h3{font-size:1.05rem}.insight-bottom-panel{align-items:flex-start;flex-direction:column;padding:24px 20px}.insight-bottom-panel .button{width:100%}.insights-grid{grid-template-columns:1fr}.insights-card img{height:210px}}
-</style>
-<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><a class="skip-link" href="#main">Skip to content</a>
-
-<header class="header"><div class="container nav"><a class="logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/><span class="logo-tagline">Privacy. Governance. Growth.</span></a><nav aria-label="Primary navigation" class="nav-links"><a class="" href="index.php">Home</a><a class="" href="about.html">About</a><div class="nav-dropdown"><a class="nav-trigger" href="services.html">Services <svg fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24"><path d="m6 9 6 6 6-6"></path></svg></a><div class="dropdown-menu"><a href="gdpr-health-check.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"></path><path d="m9 12 2 2 4-5"></path></svg><strong>GDPR Health Check</strong></a><a href="business-privacy-essentials.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"></path><path d="M14 3v5h5M9 12h6M9 16h6"></path></svg><strong>Business Privacy Essentials</strong></a><a href="website-privacy-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"></path></svg><strong>Website Compliance Review</strong></a><a href="employee-privacy-pack.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M16 20v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2M9.5 10a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM17 11a4 4 0 0 1 4 4v5M16 3.2a4 4 0 0 1 0 7.6"></path></svg><strong>Employee Privacy Pack</strong></a><a href="ai-for-business-review.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M18 9h3M3 15h3M18 15h3"></path><rect height="12" rx="3" width="12" x="6" y="6"></rect><path d="M9 14v-4h2.2a2 2 0 0 1 0 4H9Zm6-4v4"></path></svg><strong>AI Governance</strong></a><a href="ongoing-privacy-support.html"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 13v-2a8 8 0 0 1 16 0v2"></path><path d="M4 13h3v6H5a1 1 0 0 1-1-1zM20 13h-3v6h2a1 1 0 0 0 1-1zM17 19c0 1.1-.9 2-2 2h-3"></path></svg><strong>Ongoing Privacy Support</strong></a></div></div><a class="active" href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a class="" href="pricing.php">Pricing</a><a class="" href="contact.html">Contact</a></nav><div class="nav-actions"><a class="button button-gold nav-cta" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><button aria-expanded="false" aria-label="Open navigation" class="menu-button" data-menu-button=""><span></span><span></span><span></span></button></div></div><div class="mobile-menu" data-mobile-menu=""><a href="index.php">Home</a><a href="about.html">About</a><details class="mobile-services"><summary>Services</summary><div><a href="gdpr-health-check.php">GDPR Health Check</a><a href="business-privacy-essentials.html">Business Privacy Essentials</a><a href="website-privacy-review.html">Website Compliance Review</a><a href="employee-privacy-pack.html">Employee Privacy Pack</a><a href="ai-for-business-review.html">AI Governance</a><a href="ongoing-privacy-support.html">Ongoing Privacy Support</a></div></details><a href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><a href="pricing.php">Pricing</a><a href="contact.html">Contact</a><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a></div></header><main id="main"><section class="insight-hero"><div class="insight-wrap">
-<nav aria-label="Breadcrumb" class="insight-breadcrumb"><a href="index.php">Home</a><span>›</span><a href="insights.php">Insights</a><a href="case-studies.php">Case studies</a><span>›</span><span>Website Privacy</span></nav>
-<span class="insight-kicker">Article 01 &nbsp;•&nbsp; Website Privacy</span>
-<h1 class="insight-title">Is Your Website GDPR Compliant? 7 Things Every Business Should Check</h1>
-<div class="insight-meta"><div class="insight-author"><img src="assets/images/shiraz-rahhal.jpg" alt="Shiraz Rahhal"/><div><strong>By Shiraz Rahhal</strong><span>Founder &amp; Director, S.R Legal Services</span></div></div><span class="insight-read">Website Privacy &nbsp;•&nbsp; 5 minutes read</span></div>
-</div></section>
-<div class="insight-wrap"><figure class="insight-cover"><img src="assets/images/insights/website-gdpr-compliant.jpg" alt="Is Your Website GDPR Compliant? 7 Things Every Business Should Check"/></figure>
-<article class="insight-article"><p class="lead">Your website may collect more personal information than you realise. From contact forms and cookies to analytics and third-party tools, there are seven key areas every business should review to reduce privacy risk and build trust with your customers.</p><h2>1. Check your privacy notice</h2><p>Your privacy notice should be easy to find, up to date and written in clear language. It should explain what information you collect, why you collect it, the lawful basis you rely on, who you share information with, how long you keep it and how people can exercise their rights. A notice copied from another website is unlikely to accurately describe how your own business operates.</p><h2>2. Review your cookies and tracking technologies</h2><p>Check which cookies, analytics tools, advertising technologies and other trackers operate when someone visits your website. Non-essential cookies should not normally be placed before the visitor has given the appropriate consent. Your cookie information should also accurately describe the technologies in use.</p><h2>3. Look at your cookie banner</h2><p>A banner should give visitors a genuine choice. Accepting non-essential cookies should not be easier than refusing them, and consent should be freely given, specific and informed. The banner also needs to work technically: declining cookies should actually prevent the relevant technologies from loading.</p><h2>4. Review your online forms</h2><p>Contact, enquiry, booking and newsletter forms often collect personal information. Only ask for information you genuinely need, explain what will happen to it and avoid automatically adding people to marketing lists without an appropriate basis.</p><h2>5. Check third-party services</h2><p>Booking platforms, payment providers, chat tools, analytics services and embedded content can all involve personal data. Understand which providers receive information through your website and whether your privacy information reflects those arrangements.</p><h2>6. Check website security</h2><p>Your website should use appropriate security measures, including HTTPS and sensible access controls for administrative accounts. Security should reflect the nature of the information you collect and the risks involved.</p><h2>7. Keep the website under review</h2><p>Compliance is not a one-off exercise. Websites change, new plugins are installed and marketing tools are introduced. Review your privacy arrangements whenever there is a significant change and periodically even when there is not.</p>
-<div class="insight-summary"><h2>In summary</h2><p>A compliant website is not simply about having a privacy policy in the footer. The notices, cookies, forms, technology and actual data flows all need to work together.</p></div>
-<div class="insight-service"><div><small>Related service</small><h2>Website Privacy Review</h2><p>Practical support from S.R Legal Services tailored to your organisation.</p></div><div class="insight-service-actions"><a class="button button-gold button-sm" href="website-privacy-review.html">View Website Privacy Review</a><a class="button button-outline button-sm" href="https://calendly.com/srlegalservices-info/30min" target="_blank" rel="noopener">Book a Free 30-Minute Consultation</a></div></div>
-</article></div>
-<section class="related-insights"><div class="container"><div class="section-head"><div><span class="kicker">Related insights</span><h2>Continue reading.</h2></div><p>More practical guidance on privacy, data protection and responsible AI.</p></div><div class="related-insights-grid"><a class="related-insight-card" href="does-my-small-business-need-gdpr.html"><img src="assets/images/insights/small-business-gdpr.jpg" alt=""/><div class="related-insight-copy"><small>Data Protection</small><h3>Does My Small Business Really Need to Worry About GDPR?</h3><span>Read article →</span></div></a><a class="related-insight-card" href="cookies-and-consent-is-your-website-getting-it-right.html"><img src="assets/images/insights/cookies-and-consent.jpg" alt=""/><div class="related-insight-copy"><small>Website Privacy</small><h3>Cookies and Consent: Is Your Website Getting It Right?</h3><span>Read article →</span></div></a></div></div></section>
-<section class="insight-bottom-cta"><div class="container"><div class="insight-bottom-panel"><div><h2>Speak directly with Shiraz</h2><p>Book a free 30-minute consultation to discuss your privacy challenges and practical next steps.</p></div><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" target="_blank" rel="noopener">Book Your Consultation</a></div></div></section>
-</main><div class="editorial"><footer class="e-footer">
-<div class="wrap e-footer-top">
-  <div class="e-footer-brand">
-    <a class="e-footer-logo" href="index.php"><img alt="S.R Legal Services" src="assets/images/logo.png"/></a>
-    <div class="e-footer-tagline">Privacy. Governance. Growth.</div>
-    <p>Simple privacy advice for growing businesses. Practical support across data protection, privacy governance and responsible AI.</p>
-  </div>
-  <div class="e-footer-col">
-    <h4>Services</h4>
-    <a href="gdpr-health-check.php">GDPR Health Check</a>
-    <a href="business-privacy-essentials.html">Business Privacy Essentials</a>
-    <a href="website-privacy-review.html">Website Compliance Review</a>
-    <a href="employee-privacy-pack.html">Employee Privacy Pack</a>
-    <a href="ai-for-business-review.html">AI Governance</a>
-    <a href="ongoing-privacy-support.html">Ongoing Privacy Support</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Company</h4>
-    <a href="index.php">Home</a>
-    <a href="about.html">About</a>
-    <a href="insights.php">Insights</a>
-    <a href="case-studies.php">Case studies</a>
-    <a href="pricing.php">Pricing</a>
-    <a href="contact.html">Contact</a>
-  </div>
-  <div class="e-footer-col">
-    <h4>Speak with us</h4>
-    <a href="tel:+447778778153">07778 778153</a>
-    <a href="mailto:info@srlegalservices.co.uk">info@srlegalservices.co.uk</a>
+<link rel="stylesheet" href="assets/css/cookie-consent.css"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet"/><link rel="stylesheet" href="assets/css/editorial.css"/><link rel="stylesheet" href="assets/css/header-upgrade.css"/></head><body><?php $active = 'services'; $activeService = 'employee-privacy-pack'; include __DIR__ . '/partials/nav.php'; ?><main id="main"><section class="page-hero service-page-hero"><img alt="" class="page-hero-bg" src="assets/images/service-employee-hero.jpg"/><div class="page-hero-overlay"></div><div class="container page-hero-content"><nav aria-label="Breadcrumb" class="service-breadcrumb"><a href="index.php">Home</a><span>›</span><a href="services.php">Services</a><span>›</span><strong>Employee Privacy Pack</strong></nav><span class="kicker kicker-light">Workplace privacy service</span><h1>Employee Privacy Pack</h1><p>Protect employee information with confidence.</p><div class="service-hero-actions"><a class="button button-gold" href="https://calendly.com/srlegalservices-info/30min" rel="noopener" target="_blank"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M7 3v4M17 3v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z"></path><path d="m9 15 2 2 4-5"></path></svg><span>Book Free 30-Minute Consultation</span></a><a class="button button-light" href="pricing.php"><svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"></path></svg><span>View Pricing</span></a></div><div class="service-hero-facts"><div><span>Starting from</span><strong>£295 + VAT</strong></div><div><span>Timescale</span><strong>Agreed after consultation</strong></div><div><span>Primary outcome</span><strong>Clearer employee privacy</strong></div></div></div></section><section aria-label="Free consultation" class="consultation-strip"><div class="container consultation-strip-inner"><div class="consultation-strip-copy"><span class="consultation-label">Free 30-minute consultation</span><h2>Talk through your privacy or compliance needs.</h2><p>No obligation. Clear guidance. Practical next steps for your business.</p></div></div></section><div class="editorial">
+<div class="e-trust-bar">
+  <div class="wrap e-trust-bar-inner">
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg><span>Practical, jargon-free advice</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5V3h6v2M4 6h16v13H4zM4 11h16M10 11v2h4v-2"/></svg><span>Clear scope and pricing</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h6M9 9h2"/></svg><span>Useful written outputs</span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.6 2.8 8 7 10 4.2-2 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg><span>Business-focused recommendations</span></div>
   </div>
 </div>
 
-<div class="wrap e-footer-company">
-  <div class="e-footer-company-head">
-    <div>
-      <span class="e-footer-company-kicker">Company information</span>
-      <strong>Copyright &copy; 2026 S.R Legal Services. All rights reserved.</strong>
-    </div>
-  </div>
-  <div class="e-footer-company-details">
-    <div class="e-footer-detail e-footer-detail-wide">
-      <span class="e-footer-detail-label">Trading name</span>
-      <p>S.R Legal Services is the trading name of S.R Consulting Services Limited, a company registered in England and Wales.</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Registered office</span>
-      <p>124 City Road, London, EC1V 2NX</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">Company number</span>
-      <p>11276408</p>
-    </div>
-    <div class="e-footer-detail">
-      <span class="e-footer-detail-label">VAT number</span>
-      <p>436104131</p>
-    </div>
-  </div>
-</div>
+<section class="e-section">
+  <div class="wrap">
+    <div class="k">Overview <span class="dash"></span></div>
+    <h2>Protect employee information with confidence<span class="dot">.</span></h2>
+    <p>Practical privacy documents and guidance for employers handling staff records, workplace systems and employee information.</p>
 
-<div class="wrap e-footer-bottom">
-  <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
-  <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by <span class="e-footer-credit-name">Techclues Ltd</span></a>
-  <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
+    <div class="e-split">
+      <div class="cl"><div class="k">Right for you if</div><h3>Is this relevant to your business?</h3><p>Consider the following questions.</p></div>
+      <div class="cr">
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Do you employ staff?</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Do you keep personnel files?</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Do employees use business email or digital systems?</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Do you operate CCTV?</p></div>
+      </div>
+    </div>
+
+    <div class="e-split" style="margin-top:clamp(44px,6vw,72px);">
+      <div class="cl"><div class="k">Support</div><h3>How we help employers</h3><p>Practical support tailored to the way your business operates.</p></div>
+      <div class="cr">
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Employee privacy information and documentation</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Practical guidance for personnel records</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Support with workplace data handling</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Clear advice on employee systems and communications</p></div>
+        <div class="e-li"><div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div><p>Proportionate recommendations for your business</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="e-section alt">
+  <div class="wrap">
+    <div class="k">The process <span class="dash"></span></div>
+    <h2>How it works<span class="dot">.</span></h2>
+    <div class="e-grid4">
+      <div class="it"><h4>Book a consultation</h4></div>
+      <div class="it"><h4>We discuss how employee information is collected and used</h4></div>
+      <div class="it"><h4>We review your current approach and documents</h4></div>
+      <div class="it"><h4>You receive practical documents and guidance</h4></div>
+    </div>
+  </div>
+</section>
+
+<section class="e-section">
+  <div class="wrap">
+    <div class="k">Questions <span class="dash"></span></div>
+    <h2>Frequently asked<span class="dot">.</span></h2>
+    <div class="e-faq">
+      <div class="e-faq-col">
+        <div class="fitem open"><div class="fq"><h4>What is included in the Employee Privacy Pack?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>The Employee Privacy Pack includes the essential privacy documents employers need to manage employee information responsibly, together with practical guidance to help you meet your UK GDPR obligations.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Is this suitable for small businesses?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. The Employee Privacy Pack is designed for businesses of all sizes, whether you employ one person or a larger team. We tailor the documentation to reflect your organisation and the way you manage employee information.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Does this cover employee privacy notices?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. We’ll prepare an Employee Privacy Notice explaining how employee personal information is collected, used, stored and shared, helping you meet your transparency obligations under UK GDPR.</p></div></div>
+      </div>
+      <div class="e-faq-col">
+        <div class="fitem"><div class="fq"><h4>Can you help with CCTV and employee monitoring?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. If your business uses CCTV or other forms of workplace monitoring, we can advise on the privacy considerations, transparency requirements and supporting documentation that may be needed.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Can the documents be updated as my business grows?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Absolutely. As your business recruits more staff or introduces new systems and processes, we can review and update your documentation to ensure it remains appropriate and up to date.</p></div></div>
+        <div class="fitem"><div class="fq"><h4>Do you provide ongoing employment privacy support?</h4><span class="pl">+</span></div>
+          <div class="fa"><p>Yes. If you have questions after the documents have been completed, our ongoing Privacy Support plans provide practical advice on employee privacy, workplace data protection and related compliance matters whenever you need assistance.</p></div></div>
+      </div>
+    </div>
+  </div>
+</section><section class="e-band">
+  <div class="wrap">
+    <div class="k">What you can expect</div>
+    <h2>Clearer expectations for employers, managers and staff<span class="dot">.</span></h2>
+    <p style="color:#D3E2DA;max-width:52ch;">Strengthen transparency and improve the way workplace information is handled across your organisation.</p>
+    <div class="e-band-row" style="grid-template-columns:repeat(4,1fr);">
+      <div class="b"><h4>Employee-facing privacy information</h4></div>
+      <div class="b"><h4>Practical workplace guidance</h4></div>
+      <div class="b"><h4>Improved handling of personnel records</h4></div>
+      <div class="b"><h4>Clear actions for managers and HR</h4></div>
+    </div>
+  </div>
+</section><section class="e-section alt">
+  <div class="wrap">
+    <div class="e-shead">
+      <div><div class="k">Explore more support</div><h2>Related services for your next step.</h2></div>
+      <p>Choose focused support now, with the option to add further help as your needs develop.</p>
+    </div>
+    <div class="e-index">
+      <a class="e-row" href="business-privacy-essentials.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>Business Privacy Essentials</h3><p>Build the wider privacy documents your organisation needs.</p></div>
+        <div class="pr"><div class="from">From</div><div class="v display">£695</div><div class="u">+ VAT</div></div>
+        <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
+      </a>
+      <a class="e-row" href="gdpr-health-check.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>GDPR Health Check</h3><p>Review your overall privacy position and priorities.</p></div>
+        <div class="pr"><div class="from">From</div><div class="v display">£199</div><div class="u">+ VAT</div></div>
+        <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
+      </a>
+      <a class="e-row" href="ongoing-privacy-support.php">
+        <div class="n display"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor"/></svg></div>
+        <div class="m"><h3>Ongoing Privacy Support</h3><p>Get advice as employee privacy questions arise.</p></div>
+        <div class="pr"><div class="from">From</div><div class="v display">£99</div><div class="u">/ month</div></div>
+        <div class="go"><svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></div>
+      </a>
+    </div>
+  </div>
+</section><section class="e-cta">
+  <div class="e-arcs"></div>
+  <div class="wrap">
+    <div><h2>Ready to protect <em>your</em> business<span class="dot">?</span></h2>
+      <p>Book a free consultation and we’ll recommend the most appropriate solution for your business.</p></div>
+    <div class="e-btns">
+      <a href="contact.php" class="btn btn-gold">Contact Us</a>
+      <div class="small">Employee Privacy Pack from £295 + VAT</div>
+    </div>
+  </div>
+</section>
 </div>
-</footer></div>
+</main><div class="editorial"><?php include __DIR__ . '/partials/footer.php'; ?></div>
 <script>
 document.documentElement.classList.add('js');
 document.addEventListener('DOMContentLoaded',()=>{
- const menuBtn=document.querySelector('[data-menu-button]');
- const mobileMenu=document.querySelector('[data-mobile-menu]');
- if(menuBtn&&mobileMenu){menuBtn.addEventListener('click',()=>{const open=mobileMenu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',open?'true':'false')})}
  const headerEl=document.querySelector('.header'); if(headerEl){const setScrolled=()=>headerEl.classList.toggle('scrolled',window.scrollY>10); setScrolled(); window.addEventListener('scroll',setScrolled,{passive:true});}
- const targets=document.querySelectorAll('main section,.service-card,.benefit-card,.info-card,.plan,.glance,.legal-content');
+ const targets=document.querySelectorAll('main section,.service-card,.benefit-card,.info-card,.plan,.glance,.legal-content,.service-related-card,.service-outcome-panel');
  targets.forEach(el=>el.classList.add('reveal'));
  const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}}),{threshold:.07,rootMargin:'0px 0px -35px'});
  targets.forEach(el=>io.observe(el));
  const params=new URLSearchParams(location.search);const box=document.querySelector('[data-form-message]');if(box&&params.get('status')){const ok=params.get('status')==='sent';box.className='notice';box.textContent=ok?'Thank you. Your enquiry has been received.':'Please complete the required fields and try again.'}
+ document.querySelectorAll('.fitem').forEach(function(it){
+   var q=it.querySelector('.fq');
+   var pl=it.querySelector('.pl');
+   if(pl)pl.textContent=it.classList.contains('open')?'−':'+';
+   if(q)q.addEventListener('click',function(){
+     var open=it.classList.toggle('open');
+     if(pl)pl.textContent=open?'−':'+';
+   });
+ });
 });
-</script>
-<script id="v27-counter-script">
-(function(){
-  const counters = document.querySelectorAll('.js-counter');
-  if(!counters.length) return;
-  const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const finish = el => {
-    const target = Number(el.dataset.target || 0);
-    const suffix = el.dataset.suffix || '';
-    el.textContent = target.toLocaleString() + suffix;
-  };
-  if(reduceMotion || !('IntersectionObserver' in window)){
-    counters.forEach(finish);
-    return;
-  }
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if(!entry.isIntersecting) return;
-      const el = entry.target;
-      observer.unobserve(el);
-      const target = Number(el.dataset.target || 0);
-      const suffix = el.dataset.suffix || '';
-      const duration = 1350;
-      const startTime = performance.now();
-      const tick = now => {
-        const progress = Math.min((now - startTime) / duration, 1);
-        const eased = 1 - Math.pow(1 - progress, 3);
-        el.textContent = Math.floor(target * eased).toLocaleString() + suffix;
-        if(progress < 1) requestAnimationFrame(tick);
-        else finish(el);
-      };
-      el.textContent = '0' + suffix;
-      requestAnimationFrame(tick);
-    });
-  }, {threshold:.35});
-  counters.forEach(el => observer.observe(el));
-})();
-</script>
-<script src="assets/js/cookie-consent.js" defer></script></body></html>
+</script></body></html>

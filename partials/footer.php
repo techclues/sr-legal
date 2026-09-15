@@ -8,20 +8,20 @@
   <div class="e-footer-col">
     <h4>Services</h4>
     <a href="gdpr-health-check.php">GDPR Health Check</a>
-    <a href="business-privacy-essentials.html">Business Privacy Essentials</a>
-    <a href="website-privacy-review.html">Website Compliance Review</a>
-    <a href="employee-privacy-pack.html">Employee Privacy Pack</a>
-    <a href="ai-for-business-review.html">AI Governance</a>
-    <a href="ongoing-privacy-support.html">Ongoing Privacy Support</a>
+    <a href="business-privacy-essentials.php">Business Privacy Essentials</a>
+    <a href="website-privacy-review.php">Website Compliance Review</a>
+    <a href="employee-privacy-pack.php">Employee Privacy Pack</a>
+    <a href="ai-for-business-review.php">AI Governance</a>
+    <a href="ongoing-privacy-support.php">Ongoing Privacy Support</a>
   </div>
   <div class="e-footer-col">
     <h4>Company</h4>
     <a href="index.php">Home</a>
-    <a href="about.html">About</a>
+    <a href="about.php">About</a>
     <a href="insights.php">Insights</a>
     <a href="case-studies.php">Case studies</a>
     <a href="pricing.php">Pricing</a>
-    <a href="contact.html">Contact</a>
+    <a href="contact.php">Contact</a>
   </div>
   <div class="e-footer-col">
     <h4>Speak with us</h4>
@@ -60,7 +60,7 @@
 <div class="wrap e-footer-bottom">
   <span>&copy; 2026 S.R Legal Services. All rights reserved.</span>
   <a class="e-footer-credit" href="https://techclues.co.uk/" rel="noopener" target="_blank">Designed &amp; Developed by <span class="e-footer-credit-name">Techclues Ltd</span></a>
-  <span><a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="cookies.html">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.html">Accessibility</a></span>
+  <span><a href="privacy.php">Privacy</a> &middot; <a href="terms.php">Terms</a> &middot; <a href="cookies.php">Cookies</a> &middot; <button class="cookie-settings-link" data-cookie-settings="" type="button">Cookie settings</button> &middot; <a href="accessibility.php">Accessibility</a></span>
 </div>
 </footer>
 <script src="assets/js/cookie-consent.js"></script>
@@ -70,23 +70,6 @@ document.addEventListener('DOMContentLoaded',()=>{
  const menuBtn=document.querySelector('[data-menu-button]');
  const mobileMenu=document.querySelector('[data-mobile-menu]');
  if(menuBtn&&mobileMenu){menuBtn.addEventListener('click',()=>{const open=mobileMenu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',open?'true':'false')})}
-
- document.querySelectorAll('.editorial .e-index').forEach(function(list){
-   var rows=Array.prototype.slice.call(list.querySelectorAll(':scope > .e-row'));
-   if(rows.length<2) return;
-   var i=0, paused=false, started=false;
-   function activate(n){ rows.forEach(function(r,idx){ r.classList.toggle('auto', idx===n); }); }
-   function tick(){ if(paused) return; activate(i); i=(i+1)%rows.length; }
-   function start(){ if(started) return; started=true; tick(); setInterval(tick,1600); }
-   rows.forEach(function(r){
-     r.addEventListener('mouseenter',function(){ paused=true; rows.forEach(function(rr){ rr.classList.remove('auto'); }); });
-     r.addEventListener('mouseleave',function(){ paused=false; });
-   });
-   var listIo=new IntersectionObserver(function(entries){
-     entries.forEach(function(entry){ if(entry.isIntersecting){ start(); listIo.unobserve(list); } });
-   },{threshold:.3});
-   listIo.observe(list);
- });
 
  const heroSlider=document.querySelector('[data-hero-slider]');
  if(heroSlider){
@@ -167,7 +150,7 @@ document.addEventListener('DOMContentLoaded',()=>{
    }
    function next(){ go(idx+1); }
    function prev(){ go(idx-1); }
-   function reset(){ if(timer) clearInterval(timer); timer=setInterval(next,2000); }
+   function reset(){ if(timer) clearInterval(timer); timer=setInterval(next,15000); }
    var prevBtn=document.querySelector('[data-testi-prev]');
    var nextBtn=document.querySelector('[data-testi-next]');
    if(prevBtn) prevBtn.addEventListener('click',function(){ prev(); reset(); });
